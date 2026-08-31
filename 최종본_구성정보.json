@@ -1,0 +1,15 @@
+{
+  "created_at": "2026-07-29T00:00:57",
+  "source": "F:\\hanul_synth_cvvc",
+  "target": "F:\\hanul_synth_cvvc\\최종본_v3",
+  "revision": "assertive-anime-clear-v3-final",
+  "verified_files": 1858,
+  "directly_runnable": true,
+  "entry_point": "F:\\hanul_synth_cvvc\\최종본_v3\\run.bat",
+  "excluded": [
+    "이전 voicebank 백업",
+    "이전 detailed_voicebank 백업",
+    "__pycache__",
+    "작업 중 생성된 루트 샘플"
+  ]
+}

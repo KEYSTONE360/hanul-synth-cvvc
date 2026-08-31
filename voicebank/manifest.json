@@ -1,0 +1,4732 @@
+{
+  "sample_rate": 44100,
+  "base_f0_hz": 440.0,
+  "base_midi": 69,
+  "units": {
+    "ㄱㅏ": {
+      "kind": "cv",
+      "file": "cv\\ㄱ_ㅏ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄱㅐ": {
+      "kind": "cv",
+      "file": "cv\\ㄱ_ㅐ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄱㅑ": {
+      "kind": "cv",
+      "file": "cv\\ㄱ_ㅑ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄱㅒ": {
+      "kind": "cv",
+      "file": "cv\\ㄱ_ㅒ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄱㅓ": {
+      "kind": "cv",
+      "file": "cv\\ㄱ_ㅓ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄱㅔ": {
+      "kind": "cv",
+      "file": "cv\\ㄱ_ㅔ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄱㅕ": {
+      "kind": "cv",
+      "file": "cv\\ㄱ_ㅕ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄱㅖ": {
+      "kind": "cv",
+      "file": "cv\\ㄱ_ㅖ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄱㅗ": {
+      "kind": "cv",
+      "file": "cv\\ㄱ_ㅗ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄱㅘ": {
+      "kind": "cv",
+      "file": "cv\\ㄱ_ㅘ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄱㅙ": {
+      "kind": "cv",
+      "file": "cv\\ㄱ_ㅙ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄱㅚ": {
+      "kind": "cv",
+      "file": "cv\\ㄱ_ㅚ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄱㅛ": {
+      "kind": "cv",
+      "file": "cv\\ㄱ_ㅛ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄱㅜ": {
+      "kind": "cv",
+      "file": "cv\\ㄱ_ㅜ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄱㅝ": {
+      "kind": "cv",
+      "file": "cv\\ㄱ_ㅝ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄱㅞ": {
+      "kind": "cv",
+      "file": "cv\\ㄱ_ㅞ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄱㅟ": {
+      "kind": "cv",
+      "file": "cv\\ㄱ_ㅟ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄱㅠ": {
+      "kind": "cv",
+      "file": "cv\\ㄱ_ㅠ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄱㅡ": {
+      "kind": "cv",
+      "file": "cv\\ㄱ_ㅡ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄱㅢ": {
+      "kind": "cv",
+      "file": "cv\\ㄱ_ㅢ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄱㅣ": {
+      "kind": "cv",
+      "file": "cv\\ㄱ_ㅣ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄲㅏ": {
+      "kind": "cv",
+      "file": "cv\\ㄲ_ㅏ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄲㅐ": {
+      "kind": "cv",
+      "file": "cv\\ㄲ_ㅐ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄲㅑ": {
+      "kind": "cv",
+      "file": "cv\\ㄲ_ㅑ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄲㅒ": {
+      "kind": "cv",
+      "file": "cv\\ㄲ_ㅒ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄲㅓ": {
+      "kind": "cv",
+      "file": "cv\\ㄲ_ㅓ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄲㅔ": {
+      "kind": "cv",
+      "file": "cv\\ㄲ_ㅔ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄲㅕ": {
+      "kind": "cv",
+      "file": "cv\\ㄲ_ㅕ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄲㅖ": {
+      "kind": "cv",
+      "file": "cv\\ㄲ_ㅖ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄲㅗ": {
+      "kind": "cv",
+      "file": "cv\\ㄲ_ㅗ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄲㅘ": {
+      "kind": "cv",
+      "file": "cv\\ㄲ_ㅘ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄲㅙ": {
+      "kind": "cv",
+      "file": "cv\\ㄲ_ㅙ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄲㅚ": {
+      "kind": "cv",
+      "file": "cv\\ㄲ_ㅚ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄲㅛ": {
+      "kind": "cv",
+      "file": "cv\\ㄲ_ㅛ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄲㅜ": {
+      "kind": "cv",
+      "file": "cv\\ㄲ_ㅜ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄲㅝ": {
+      "kind": "cv",
+      "file": "cv\\ㄲ_ㅝ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄲㅞ": {
+      "kind": "cv",
+      "file": "cv\\ㄲ_ㅞ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄲㅟ": {
+      "kind": "cv",
+      "file": "cv\\ㄲ_ㅟ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄲㅠ": {
+      "kind": "cv",
+      "file": "cv\\ㄲ_ㅠ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄲㅡ": {
+      "kind": "cv",
+      "file": "cv\\ㄲ_ㅡ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄲㅢ": {
+      "kind": "cv",
+      "file": "cv\\ㄲ_ㅢ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄲㅣ": {
+      "kind": "cv",
+      "file": "cv\\ㄲ_ㅣ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄴㅏ": {
+      "kind": "cv",
+      "file": "cv\\ㄴ_ㅏ.wav",
+      "duration_ms": 408.005
+    },
+    "ㄴㅐ": {
+      "kind": "cv",
+      "file": "cv\\ㄴ_ㅐ.wav",
+      "duration_ms": 408.005
+    },
+    "ㄴㅑ": {
+      "kind": "cv",
+      "file": "cv\\ㄴ_ㅑ.wav",
+      "duration_ms": 408.005
+    },
+    "ㄴㅒ": {
+      "kind": "cv",
+      "file": "cv\\ㄴ_ㅒ.wav",
+      "duration_ms": 408.005
+    },
+    "ㄴㅓ": {
+      "kind": "cv",
+      "file": "cv\\ㄴ_ㅓ.wav",
+      "duration_ms": 408.005
+    },
+    "ㄴㅔ": {
+      "kind": "cv",
+      "file": "cv\\ㄴ_ㅔ.wav",
+      "duration_ms": 408.005
+    },
+    "ㄴㅕ": {
+      "kind": "cv",
+      "file": "cv\\ㄴ_ㅕ.wav",
+      "duration_ms": 408.005
+    },
+    "ㄴㅖ": {
+      "kind": "cv",
+      "file": "cv\\ㄴ_ㅖ.wav",
+      "duration_ms": 408.005
+    },
+    "ㄴㅗ": {
+      "kind": "cv",
+      "file": "cv\\ㄴ_ㅗ.wav",
+      "duration_ms": 408.005
+    },
+    "ㄴㅘ": {
+      "kind": "cv",
+      "file": "cv\\ㄴ_ㅘ.wav",
+      "duration_ms": 408.005
+    },
+    "ㄴㅙ": {
+      "kind": "cv",
+      "file": "cv\\ㄴ_ㅙ.wav",
+      "duration_ms": 408.005
+    },
+    "ㄴㅚ": {
+      "kind": "cv",
+      "file": "cv\\ㄴ_ㅚ.wav",
+      "duration_ms": 408.005
+    },
+    "ㄴㅛ": {
+      "kind": "cv",
+      "file": "cv\\ㄴ_ㅛ.wav",
+      "duration_ms": 408.005
+    },
+    "ㄴㅜ": {
+      "kind": "cv",
+      "file": "cv\\ㄴ_ㅜ.wav",
+      "duration_ms": 408.005
+    },
+    "ㄴㅝ": {
+      "kind": "cv",
+      "file": "cv\\ㄴ_ㅝ.wav",
+      "duration_ms": 408.005
+    },
+    "ㄴㅞ": {
+      "kind": "cv",
+      "file": "cv\\ㄴ_ㅞ.wav",
+      "duration_ms": 408.005
+    },
+    "ㄴㅟ": {
+      "kind": "cv",
+      "file": "cv\\ㄴ_ㅟ.wav",
+      "duration_ms": 408.005
+    },
+    "ㄴㅠ": {
+      "kind": "cv",
+      "file": "cv\\ㄴ_ㅠ.wav",
+      "duration_ms": 408.005
+    },
+    "ㄴㅡ": {
+      "kind": "cv",
+      "file": "cv\\ㄴ_ㅡ.wav",
+      "duration_ms": 408.005
+    },
+    "ㄴㅢ": {
+      "kind": "cv",
+      "file": "cv\\ㄴ_ㅢ.wav",
+      "duration_ms": 408.005
+    },
+    "ㄴㅣ": {
+      "kind": "cv",
+      "file": "cv\\ㄴ_ㅣ.wav",
+      "duration_ms": 408.005
+    },
+    "ㄷㅏ": {
+      "kind": "cv",
+      "file": "cv\\ㄷ_ㅏ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄷㅐ": {
+      "kind": "cv",
+      "file": "cv\\ㄷ_ㅐ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄷㅑ": {
+      "kind": "cv",
+      "file": "cv\\ㄷ_ㅑ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄷㅒ": {
+      "kind": "cv",
+      "file": "cv\\ㄷ_ㅒ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄷㅓ": {
+      "kind": "cv",
+      "file": "cv\\ㄷ_ㅓ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄷㅔ": {
+      "kind": "cv",
+      "file": "cv\\ㄷ_ㅔ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄷㅕ": {
+      "kind": "cv",
+      "file": "cv\\ㄷ_ㅕ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄷㅖ": {
+      "kind": "cv",
+      "file": "cv\\ㄷ_ㅖ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄷㅗ": {
+      "kind": "cv",
+      "file": "cv\\ㄷ_ㅗ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄷㅘ": {
+      "kind": "cv",
+      "file": "cv\\ㄷ_ㅘ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄷㅙ": {
+      "kind": "cv",
+      "file": "cv\\ㄷ_ㅙ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄷㅚ": {
+      "kind": "cv",
+      "file": "cv\\ㄷ_ㅚ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄷㅛ": {
+      "kind": "cv",
+      "file": "cv\\ㄷ_ㅛ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄷㅜ": {
+      "kind": "cv",
+      "file": "cv\\ㄷ_ㅜ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄷㅝ": {
+      "kind": "cv",
+      "file": "cv\\ㄷ_ㅝ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄷㅞ": {
+      "kind": "cv",
+      "file": "cv\\ㄷ_ㅞ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄷㅟ": {
+      "kind": "cv",
+      "file": "cv\\ㄷ_ㅟ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄷㅠ": {
+      "kind": "cv",
+      "file": "cv\\ㄷ_ㅠ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄷㅡ": {
+      "kind": "cv",
+      "file": "cv\\ㄷ_ㅡ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄷㅢ": {
+      "kind": "cv",
+      "file": "cv\\ㄷ_ㅢ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄷㅣ": {
+      "kind": "cv",
+      "file": "cv\\ㄷ_ㅣ.wav",
+      "duration_ms": 417.982
+    },
+    "ㄸㅏ": {
+      "kind": "cv",
+      "file": "cv\\ㄸ_ㅏ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄸㅐ": {
+      "kind": "cv",
+      "file": "cv\\ㄸ_ㅐ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄸㅑ": {
+      "kind": "cv",
+      "file": "cv\\ㄸ_ㅑ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄸㅒ": {
+      "kind": "cv",
+      "file": "cv\\ㄸ_ㅒ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄸㅓ": {
+      "kind": "cv",
+      "file": "cv\\ㄸ_ㅓ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄸㅔ": {
+      "kind": "cv",
+      "file": "cv\\ㄸ_ㅔ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄸㅕ": {
+      "kind": "cv",
+      "file": "cv\\ㄸ_ㅕ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄸㅖ": {
+      "kind": "cv",
+      "file": "cv\\ㄸ_ㅖ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄸㅗ": {
+      "kind": "cv",
+      "file": "cv\\ㄸ_ㅗ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄸㅘ": {
+      "kind": "cv",
+      "file": "cv\\ㄸ_ㅘ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄸㅙ": {
+      "kind": "cv",
+      "file": "cv\\ㄸ_ㅙ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄸㅚ": {
+      "kind": "cv",
+      "file": "cv\\ㄸ_ㅚ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄸㅛ": {
+      "kind": "cv",
+      "file": "cv\\ㄸ_ㅛ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄸㅜ": {
+      "kind": "cv",
+      "file": "cv\\ㄸ_ㅜ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄸㅝ": {
+      "kind": "cv",
+      "file": "cv\\ㄸ_ㅝ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄸㅞ": {
+      "kind": "cv",
+      "file": "cv\\ㄸ_ㅞ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄸㅟ": {
+      "kind": "cv",
+      "file": "cv\\ㄸ_ㅟ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄸㅠ": {
+      "kind": "cv",
+      "file": "cv\\ㄸ_ㅠ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄸㅡ": {
+      "kind": "cv",
+      "file": "cv\\ㄸ_ㅡ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄸㅢ": {
+      "kind": "cv",
+      "file": "cv\\ㄸ_ㅢ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄸㅣ": {
+      "kind": "cv",
+      "file": "cv\\ㄸ_ㅣ.wav",
+      "duration_ms": 410.0
+    },
+    "ㄹㅏ": {
+      "kind": "cv",
+      "file": "cv\\ㄹ_ㅏ.wav",
+      "duration_ms": 385.986
+    },
+    "ㄹㅐ": {
+      "kind": "cv",
+      "file": "cv\\ㄹ_ㅐ.wav",
+      "duration_ms": 385.986
+    },
+    "ㄹㅑ": {
+      "kind": "cv",
+      "file": "cv\\ㄹ_ㅑ.wav",
+      "duration_ms": 385.986
+    },
+    "ㄹㅒ": {
+      "kind": "cv",
+      "file": "cv\\ㄹ_ㅒ.wav",
+      "duration_ms": 385.986
+    },
+    "ㄹㅓ": {
+      "kind": "cv",
+      "file": "cv\\ㄹ_ㅓ.wav",
+      "duration_ms": 385.986
+    },
+    "ㄹㅔ": {
+      "kind": "cv",
+      "file": "cv\\ㄹ_ㅔ.wav",
+      "duration_ms": 385.986
+    },
+    "ㄹㅕ": {
+      "kind": "cv",
+      "file": "cv\\ㄹ_ㅕ.wav",
+      "duration_ms": 385.986
+    },
+    "ㄹㅖ": {
+      "kind": "cv",
+      "file": "cv\\ㄹ_ㅖ.wav",
+      "duration_ms": 385.986
+    },
+    "ㄹㅗ": {
+      "kind": "cv",
+      "file": "cv\\ㄹ_ㅗ.wav",
+      "duration_ms": 385.986
+    },
+    "ㄹㅘ": {
+      "kind": "cv",
+      "file": "cv\\ㄹ_ㅘ.wav",
+      "duration_ms": 385.986
+    },
+    "ㄹㅙ": {
+      "kind": "cv",
+      "file": "cv\\ㄹ_ㅙ.wav",
+      "duration_ms": 385.986
+    },
+    "ㄹㅚ": {
+      "kind": "cv",
+      "file": "cv\\ㄹ_ㅚ.wav",
+      "duration_ms": 385.986
+    },
+    "ㄹㅛ": {
+      "kind": "cv",
+      "file": "cv\\ㄹ_ㅛ.wav",
+      "duration_ms": 385.986
+    },
+    "ㄹㅜ": {
+      "kind": "cv",
+      "file": "cv\\ㄹ_ㅜ.wav",
+      "duration_ms": 385.986
+    },
+    "ㄹㅝ": {
+      "kind": "cv",
+      "file": "cv\\ㄹ_ㅝ.wav",
+      "duration_ms": 385.986
+    },
+    "ㄹㅞ": {
+      "kind": "cv",
+      "file": "cv\\ㄹ_ㅞ.wav",
+      "duration_ms": 385.986
+    },
+    "ㄹㅟ": {
+      "kind": "cv",
+      "file": "cv\\ㄹ_ㅟ.wav",
+      "duration_ms": 385.986
+    },
+    "ㄹㅠ": {
+      "kind": "cv",
+      "file": "cv\\ㄹ_ㅠ.wav",
+      "duration_ms": 385.986
+    },
+    "ㄹㅡ": {
+      "kind": "cv",
+      "file": "cv\\ㄹ_ㅡ.wav",
+      "duration_ms": 385.986
+    },
+    "ㄹㅢ": {
+      "kind": "cv",
+      "file": "cv\\ㄹ_ㅢ.wav",
+      "duration_ms": 385.986
+    },
+    "ㄹㅣ": {
+      "kind": "cv",
+      "file": "cv\\ㄹ_ㅣ.wav",
+      "duration_ms": 385.986
+    },
+    "ㅁㅏ": {
+      "kind": "cv",
+      "file": "cv\\ㅁ_ㅏ.wav",
+      "duration_ms": 408.005
+    },
+    "ㅁㅐ": {
+      "kind": "cv",
+      "file": "cv\\ㅁ_ㅐ.wav",
+      "duration_ms": 408.005
+    },
+    "ㅁㅑ": {
+      "kind": "cv",
+      "file": "cv\\ㅁ_ㅑ.wav",
+      "duration_ms": 408.005
+    },
+    "ㅁㅒ": {
+      "kind": "cv",
+      "file": "cv\\ㅁ_ㅒ.wav",
+      "duration_ms": 408.005
+    },
+    "ㅁㅓ": {
+      "kind": "cv",
+      "file": "cv\\ㅁ_ㅓ.wav",
+      "duration_ms": 408.005
+    },
+    "ㅁㅔ": {
+      "kind": "cv",
+      "file": "cv\\ㅁ_ㅔ.wav",
+      "duration_ms": 408.005
+    },
+    "ㅁㅕ": {
+      "kind": "cv",
+      "file": "cv\\ㅁ_ㅕ.wav",
+      "duration_ms": 408.005
+    },
+    "ㅁㅖ": {
+      "kind": "cv",
+      "file": "cv\\ㅁ_ㅖ.wav",
+      "duration_ms": 408.005
+    },
+    "ㅁㅗ": {
+      "kind": "cv",
+      "file": "cv\\ㅁ_ㅗ.wav",
+      "duration_ms": 408.005
+    },
+    "ㅁㅘ": {
+      "kind": "cv",
+      "file": "cv\\ㅁ_ㅘ.wav",
+      "duration_ms": 408.005
+    },
+    "ㅁㅙ": {
+      "kind": "cv",
+      "file": "cv\\ㅁ_ㅙ.wav",
+      "duration_ms": 408.005
+    },
+    "ㅁㅚ": {
+      "kind": "cv",
+      "file": "cv\\ㅁ_ㅚ.wav",
+      "duration_ms": 408.005
+    },
+    "ㅁㅛ": {
+      "kind": "cv",
+      "file": "cv\\ㅁ_ㅛ.wav",
+      "duration_ms": 408.005
+    },
+    "ㅁㅜ": {
+      "kind": "cv",
+      "file": "cv\\ㅁ_ㅜ.wav",
+      "duration_ms": 408.005
+    },
+    "ㅁㅝ": {
+      "kind": "cv",
+      "file": "cv\\ㅁ_ㅝ.wav",
+      "duration_ms": 408.005
+    },
+    "ㅁㅞ": {
+      "kind": "cv",
+      "file": "cv\\ㅁ_ㅞ.wav",
+      "duration_ms": 408.005
+    },
+    "ㅁㅟ": {
+      "kind": "cv",
+      "file": "cv\\ㅁ_ㅟ.wav",
+      "duration_ms": 408.005
+    },
+    "ㅁㅠ": {
+      "kind": "cv",
+      "file": "cv\\ㅁ_ㅠ.wav",
+      "duration_ms": 408.005
+    },
+    "ㅁㅡ": {
+      "kind": "cv",
+      "file": "cv\\ㅁ_ㅡ.wav",
+      "duration_ms": 408.005
+    },
+    "ㅁㅢ": {
+      "kind": "cv",
+      "file": "cv\\ㅁ_ㅢ.wav",
+      "duration_ms": 408.005
+    },
+    "ㅁㅣ": {
+      "kind": "cv",
+      "file": "cv\\ㅁ_ㅣ.wav",
+      "duration_ms": 408.005
+    },
+    "ㅂㅏ": {
+      "kind": "cv",
+      "file": "cv\\ㅂ_ㅏ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅂㅐ": {
+      "kind": "cv",
+      "file": "cv\\ㅂ_ㅐ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅂㅑ": {
+      "kind": "cv",
+      "file": "cv\\ㅂ_ㅑ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅂㅒ": {
+      "kind": "cv",
+      "file": "cv\\ㅂ_ㅒ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅂㅓ": {
+      "kind": "cv",
+      "file": "cv\\ㅂ_ㅓ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅂㅔ": {
+      "kind": "cv",
+      "file": "cv\\ㅂ_ㅔ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅂㅕ": {
+      "kind": "cv",
+      "file": "cv\\ㅂ_ㅕ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅂㅖ": {
+      "kind": "cv",
+      "file": "cv\\ㅂ_ㅖ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅂㅗ": {
+      "kind": "cv",
+      "file": "cv\\ㅂ_ㅗ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅂㅘ": {
+      "kind": "cv",
+      "file": "cv\\ㅂ_ㅘ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅂㅙ": {
+      "kind": "cv",
+      "file": "cv\\ㅂ_ㅙ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅂㅚ": {
+      "kind": "cv",
+      "file": "cv\\ㅂ_ㅚ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅂㅛ": {
+      "kind": "cv",
+      "file": "cv\\ㅂ_ㅛ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅂㅜ": {
+      "kind": "cv",
+      "file": "cv\\ㅂ_ㅜ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅂㅝ": {
+      "kind": "cv",
+      "file": "cv\\ㅂ_ㅝ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅂㅞ": {
+      "kind": "cv",
+      "file": "cv\\ㅂ_ㅞ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅂㅟ": {
+      "kind": "cv",
+      "file": "cv\\ㅂ_ㅟ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅂㅠ": {
+      "kind": "cv",
+      "file": "cv\\ㅂ_ㅠ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅂㅡ": {
+      "kind": "cv",
+      "file": "cv\\ㅂ_ㅡ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅂㅢ": {
+      "kind": "cv",
+      "file": "cv\\ㅂ_ㅢ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅂㅣ": {
+      "kind": "cv",
+      "file": "cv\\ㅂ_ㅣ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅃㅏ": {
+      "kind": "cv",
+      "file": "cv\\ㅃ_ㅏ.wav",
+      "duration_ms": 410.0
+    },
+    "ㅃㅐ": {
+      "kind": "cv",
+      "file": "cv\\ㅃ_ㅐ.wav",
+      "duration_ms": 410.0
+    },
+    "ㅃㅑ": {
+      "kind": "cv",
+      "file": "cv\\ㅃ_ㅑ.wav",
+      "duration_ms": 410.0
+    },
+    "ㅃㅒ": {
+      "kind": "cv",
+      "file": "cv\\ㅃ_ㅒ.wav",
+      "duration_ms": 410.0
+    },
+    "ㅃㅓ": {
+      "kind": "cv",
+      "file": "cv\\ㅃ_ㅓ.wav",
+      "duration_ms": 410.0
+    },
+    "ㅃㅔ": {
+      "kind": "cv",
+      "file": "cv\\ㅃ_ㅔ.wav",
+      "duration_ms": 410.0
+    },
+    "ㅃㅕ": {
+      "kind": "cv",
+      "file": "cv\\ㅃ_ㅕ.wav",
+      "duration_ms": 410.0
+    },
+    "ㅃㅖ": {
+      "kind": "cv",
+      "file": "cv\\ㅃ_ㅖ.wav",
+      "duration_ms": 410.0
+    },
+    "ㅃㅗ": {
+      "kind": "cv",
+      "file": "cv\\ㅃ_ㅗ.wav",
+      "duration_ms": 410.0
+    },
+    "ㅃㅘ": {
+      "kind": "cv",
+      "file": "cv\\ㅃ_ㅘ.wav",
+      "duration_ms": 410.0
+    },
+    "ㅃㅙ": {
+      "kind": "cv",
+      "file": "cv\\ㅃ_ㅙ.wav",
+      "duration_ms": 410.0
+    },
+    "ㅃㅚ": {
+      "kind": "cv",
+      "file": "cv\\ㅃ_ㅚ.wav",
+      "duration_ms": 410.0
+    },
+    "ㅃㅛ": {
+      "kind": "cv",
+      "file": "cv\\ㅃ_ㅛ.wav",
+      "duration_ms": 410.0
+    },
+    "ㅃㅜ": {
+      "kind": "cv",
+      "file": "cv\\ㅃ_ㅜ.wav",
+      "duration_ms": 410.0
+    },
+    "ㅃㅝ": {
+      "kind": "cv",
+      "file": "cv\\ㅃ_ㅝ.wav",
+      "duration_ms": 410.0
+    },
+    "ㅃㅞ": {
+      "kind": "cv",
+      "file": "cv\\ㅃ_ㅞ.wav",
+      "duration_ms": 410.0
+    },
+    "ㅃㅟ": {
+      "kind": "cv",
+      "file": "cv\\ㅃ_ㅟ.wav",
+      "duration_ms": 410.0
+    },
+    "ㅃㅠ": {
+      "kind": "cv",
+      "file": "cv\\ㅃ_ㅠ.wav",
+      "duration_ms": 410.0
+    },
+    "ㅃㅡ": {
+      "kind": "cv",
+      "file": "cv\\ㅃ_ㅡ.wav",
+      "duration_ms": 410.0
+    },
+    "ㅃㅢ": {
+      "kind": "cv",
+      "file": "cv\\ㅃ_ㅢ.wav",
+      "duration_ms": 410.0
+    },
+    "ㅃㅣ": {
+      "kind": "cv",
+      "file": "cv\\ㅃ_ㅣ.wav",
+      "duration_ms": 410.0
+    },
+    "ㅅㅏ": {
+      "kind": "cv",
+      "file": "cv\\ㅅ_ㅏ.wav",
+      "duration_ms": 436.78
+    },
+    "ㅅㅐ": {
+      "kind": "cv",
+      "file": "cv\\ㅅ_ㅐ.wav",
+      "duration_ms": 436.78
+    },
+    "ㅅㅑ": {
+      "kind": "cv",
+      "file": "cv\\ㅅ_ㅑ.wav",
+      "duration_ms": 436.78
+    },
+    "ㅅㅒ": {
+      "kind": "cv",
+      "file": "cv\\ㅅ_ㅒ.wav",
+      "duration_ms": 436.78
+    },
+    "ㅅㅓ": {
+      "kind": "cv",
+      "file": "cv\\ㅅ_ㅓ.wav",
+      "duration_ms": 436.78
+    },
+    "ㅅㅔ": {
+      "kind": "cv",
+      "file": "cv\\ㅅ_ㅔ.wav",
+      "duration_ms": 436.78
+    },
+    "ㅅㅕ": {
+      "kind": "cv",
+      "file": "cv\\ㅅ_ㅕ.wav",
+      "duration_ms": 436.78
+    },
+    "ㅅㅖ": {
+      "kind": "cv",
+      "file": "cv\\ㅅ_ㅖ.wav",
+      "duration_ms": 436.78
+    },
+    "ㅅㅗ": {
+      "kind": "cv",
+      "file": "cv\\ㅅ_ㅗ.wav",
+      "duration_ms": 436.78
+    },
+    "ㅅㅘ": {
+      "kind": "cv",
+      "file": "cv\\ㅅ_ㅘ.wav",
+      "duration_ms": 436.78
+    },
+    "ㅅㅙ": {
+      "kind": "cv",
+      "file": "cv\\ㅅ_ㅙ.wav",
+      "duration_ms": 436.78
+    },
+    "ㅅㅚ": {
+      "kind": "cv",
+      "file": "cv\\ㅅ_ㅚ.wav",
+      "duration_ms": 436.78
+    },
+    "ㅅㅛ": {
+      "kind": "cv",
+      "file": "cv\\ㅅ_ㅛ.wav",
+      "duration_ms": 436.78
+    },
+    "ㅅㅜ": {
+      "kind": "cv",
+      "file": "cv\\ㅅ_ㅜ.wav",
+      "duration_ms": 436.78
+    },
+    "ㅅㅝ": {
+      "kind": "cv",
+      "file": "cv\\ㅅ_ㅝ.wav",
+      "duration_ms": 436.78
+    },
+    "ㅅㅞ": {
+      "kind": "cv",
+      "file": "cv\\ㅅ_ㅞ.wav",
+      "duration_ms": 436.78
+    },
+    "ㅅㅟ": {
+      "kind": "cv",
+      "file": "cv\\ㅅ_ㅟ.wav",
+      "duration_ms": 436.78
+    },
+    "ㅅㅠ": {
+      "kind": "cv",
+      "file": "cv\\ㅅ_ㅠ.wav",
+      "duration_ms": 436.78
+    },
+    "ㅅㅡ": {
+      "kind": "cv",
+      "file": "cv\\ㅅ_ㅡ.wav",
+      "duration_ms": 436.78
+    },
+    "ㅅㅢ": {
+      "kind": "cv",
+      "file": "cv\\ㅅ_ㅢ.wav",
+      "duration_ms": 436.78
+    },
+    "ㅅㅣ": {
+      "kind": "cv",
+      "file": "cv\\ㅅ_ㅣ.wav",
+      "duration_ms": 436.78
+    },
+    "ㅆㅏ": {
+      "kind": "cv",
+      "file": "cv\\ㅆ_ㅏ.wav",
+      "duration_ms": 449.252
+    },
+    "ㅆㅐ": {
+      "kind": "cv",
+      "file": "cv\\ㅆ_ㅐ.wav",
+      "duration_ms": 449.252
+    },
+    "ㅆㅑ": {
+      "kind": "cv",
+      "file": "cv\\ㅆ_ㅑ.wav",
+      "duration_ms": 449.252
+    },
+    "ㅆㅒ": {
+      "kind": "cv",
+      "file": "cv\\ㅆ_ㅒ.wav",
+      "duration_ms": 449.252
+    },
+    "ㅆㅓ": {
+      "kind": "cv",
+      "file": "cv\\ㅆ_ㅓ.wav",
+      "duration_ms": 449.252
+    },
+    "ㅆㅔ": {
+      "kind": "cv",
+      "file": "cv\\ㅆ_ㅔ.wav",
+      "duration_ms": 449.252
+    },
+    "ㅆㅕ": {
+      "kind": "cv",
+      "file": "cv\\ㅆ_ㅕ.wav",
+      "duration_ms": 449.252
+    },
+    "ㅆㅖ": {
+      "kind": "cv",
+      "file": "cv\\ㅆ_ㅖ.wav",
+      "duration_ms": 449.252
+    },
+    "ㅆㅗ": {
+      "kind": "cv",
+      "file": "cv\\ㅆ_ㅗ.wav",
+      "duration_ms": 449.252
+    },
+    "ㅆㅘ": {
+      "kind": "cv",
+      "file": "cv\\ㅆ_ㅘ.wav",
+      "duration_ms": 449.252
+    },
+    "ㅆㅙ": {
+      "kind": "cv",
+      "file": "cv\\ㅆ_ㅙ.wav",
+      "duration_ms": 449.252
+    },
+    "ㅆㅚ": {
+      "kind": "cv",
+      "file": "cv\\ㅆ_ㅚ.wav",
+      "duration_ms": 449.252
+    },
+    "ㅆㅛ": {
+      "kind": "cv",
+      "file": "cv\\ㅆ_ㅛ.wav",
+      "duration_ms": 449.252
+    },
+    "ㅆㅜ": {
+      "kind": "cv",
+      "file": "cv\\ㅆ_ㅜ.wav",
+      "duration_ms": 449.252
+    },
+    "ㅆㅝ": {
+      "kind": "cv",
+      "file": "cv\\ㅆ_ㅝ.wav",
+      "duration_ms": 449.252
+    },
+    "ㅆㅞ": {
+      "kind": "cv",
+      "file": "cv\\ㅆ_ㅞ.wav",
+      "duration_ms": 449.252
+    },
+    "ㅆㅟ": {
+      "kind": "cv",
+      "file": "cv\\ㅆ_ㅟ.wav",
+      "duration_ms": 449.252
+    },
+    "ㅆㅠ": {
+      "kind": "cv",
+      "file": "cv\\ㅆ_ㅠ.wav",
+      "duration_ms": 449.252
+    },
+    "ㅆㅡ": {
+      "kind": "cv",
+      "file": "cv\\ㅆ_ㅡ.wav",
+      "duration_ms": 449.252
+    },
+    "ㅆㅢ": {
+      "kind": "cv",
+      "file": "cv\\ㅆ_ㅢ.wav",
+      "duration_ms": 449.252
+    },
+    "ㅆㅣ": {
+      "kind": "cv",
+      "file": "cv\\ㅆ_ㅣ.wav",
+      "duration_ms": 449.252
+    },
+    "ㅇㅏ": {
+      "kind": "cv",
+      "file": "cv\\ㅇ_ㅏ.wav",
+      "duration_ms": 392.993
+    },
+    "ㅇㅐ": {
+      "kind": "cv",
+      "file": "cv\\ㅇ_ㅐ.wav",
+      "duration_ms": 392.993
+    },
+    "ㅇㅑ": {
+      "kind": "cv",
+      "file": "cv\\ㅇ_ㅑ.wav",
+      "duration_ms": 392.993
+    },
+    "ㅇㅒ": {
+      "kind": "cv",
+      "file": "cv\\ㅇ_ㅒ.wav",
+      "duration_ms": 392.993
+    },
+    "ㅇㅓ": {
+      "kind": "cv",
+      "file": "cv\\ㅇ_ㅓ.wav",
+      "duration_ms": 392.993
+    },
+    "ㅇㅔ": {
+      "kind": "cv",
+      "file": "cv\\ㅇ_ㅔ.wav",
+      "duration_ms": 392.993
+    },
+    "ㅇㅕ": {
+      "kind": "cv",
+      "file": "cv\\ㅇ_ㅕ.wav",
+      "duration_ms": 392.993
+    },
+    "ㅇㅖ": {
+      "kind": "cv",
+      "file": "cv\\ㅇ_ㅖ.wav",
+      "duration_ms": 392.993
+    },
+    "ㅇㅗ": {
+      "kind": "cv",
+      "file": "cv\\ㅇ_ㅗ.wav",
+      "duration_ms": 392.993
+    },
+    "ㅇㅘ": {
+      "kind": "cv",
+      "file": "cv\\ㅇ_ㅘ.wav",
+      "duration_ms": 392.993
+    },
+    "ㅇㅙ": {
+      "kind": "cv",
+      "file": "cv\\ㅇ_ㅙ.wav",
+      "duration_ms": 392.993
+    },
+    "ㅇㅚ": {
+      "kind": "cv",
+      "file": "cv\\ㅇ_ㅚ.wav",
+      "duration_ms": 392.993
+    },
+    "ㅇㅛ": {
+      "kind": "cv",
+      "file": "cv\\ㅇ_ㅛ.wav",
+      "duration_ms": 392.993
+    },
+    "ㅇㅜ": {
+      "kind": "cv",
+      "file": "cv\\ㅇ_ㅜ.wav",
+      "duration_ms": 392.993
+    },
+    "ㅇㅝ": {
+      "kind": "cv",
+      "file": "cv\\ㅇ_ㅝ.wav",
+      "duration_ms": 392.993
+    },
+    "ㅇㅞ": {
+      "kind": "cv",
+      "file": "cv\\ㅇ_ㅞ.wav",
+      "duration_ms": 392.993
+    },
+    "ㅇㅟ": {
+      "kind": "cv",
+      "file": "cv\\ㅇ_ㅟ.wav",
+      "duration_ms": 392.993
+    },
+    "ㅇㅠ": {
+      "kind": "cv",
+      "file": "cv\\ㅇ_ㅠ.wav",
+      "duration_ms": 392.993
+    },
+    "ㅇㅡ": {
+      "kind": "cv",
+      "file": "cv\\ㅇ_ㅡ.wav",
+      "duration_ms": 392.993
+    },
+    "ㅇㅢ": {
+      "kind": "cv",
+      "file": "cv\\ㅇ_ㅢ.wav",
+      "duration_ms": 392.993
+    },
+    "ㅇㅣ": {
+      "kind": "cv",
+      "file": "cv\\ㅇ_ㅣ.wav",
+      "duration_ms": 392.993
+    },
+    "ㅈㅏ": {
+      "kind": "cv",
+      "file": "cv\\ㅈ_ㅏ.wav",
+      "duration_ms": 434.989
+    },
+    "ㅈㅐ": {
+      "kind": "cv",
+      "file": "cv\\ㅈ_ㅐ.wav",
+      "duration_ms": 434.989
+    },
+    "ㅈㅑ": {
+      "kind": "cv",
+      "file": "cv\\ㅈ_ㅑ.wav",
+      "duration_ms": 434.989
+    },
+    "ㅈㅒ": {
+      "kind": "cv",
+      "file": "cv\\ㅈ_ㅒ.wav",
+      "duration_ms": 434.989
+    },
+    "ㅈㅓ": {
+      "kind": "cv",
+      "file": "cv\\ㅈ_ㅓ.wav",
+      "duration_ms": 434.989
+    },
+    "ㅈㅔ": {
+      "kind": "cv",
+      "file": "cv\\ㅈ_ㅔ.wav",
+      "duration_ms": 434.989
+    },
+    "ㅈㅕ": {
+      "kind": "cv",
+      "file": "cv\\ㅈ_ㅕ.wav",
+      "duration_ms": 434.989
+    },
+    "ㅈㅖ": {
+      "kind": "cv",
+      "file": "cv\\ㅈ_ㅖ.wav",
+      "duration_ms": 434.989
+    },
+    "ㅈㅗ": {
+      "kind": "cv",
+      "file": "cv\\ㅈ_ㅗ.wav",
+      "duration_ms": 434.989
+    },
+    "ㅈㅘ": {
+      "kind": "cv",
+      "file": "cv\\ㅈ_ㅘ.wav",
+      "duration_ms": 434.989
+    },
+    "ㅈㅙ": {
+      "kind": "cv",
+      "file": "cv\\ㅈ_ㅙ.wav",
+      "duration_ms": 434.989
+    },
+    "ㅈㅚ": {
+      "kind": "cv",
+      "file": "cv\\ㅈ_ㅚ.wav",
+      "duration_ms": 434.989
+    },
+    "ㅈㅛ": {
+      "kind": "cv",
+      "file": "cv\\ㅈ_ㅛ.wav",
+      "duration_ms": 434.989
+    },
+    "ㅈㅜ": {
+      "kind": "cv",
+      "file": "cv\\ㅈ_ㅜ.wav",
+      "duration_ms": 434.989
+    },
+    "ㅈㅝ": {
+      "kind": "cv",
+      "file": "cv\\ㅈ_ㅝ.wav",
+      "duration_ms": 434.989
+    },
+    "ㅈㅞ": {
+      "kind": "cv",
+      "file": "cv\\ㅈ_ㅞ.wav",
+      "duration_ms": 434.989
+    },
+    "ㅈㅟ": {
+      "kind": "cv",
+      "file": "cv\\ㅈ_ㅟ.wav",
+      "duration_ms": 434.989
+    },
+    "ㅈㅠ": {
+      "kind": "cv",
+      "file": "cv\\ㅈ_ㅠ.wav",
+      "duration_ms": 434.989
+    },
+    "ㅈㅡ": {
+      "kind": "cv",
+      "file": "cv\\ㅈ_ㅡ.wav",
+      "duration_ms": 434.989
+    },
+    "ㅈㅢ": {
+      "kind": "cv",
+      "file": "cv\\ㅈ_ㅢ.wav",
+      "duration_ms": 434.989
+    },
+    "ㅈㅣ": {
+      "kind": "cv",
+      "file": "cv\\ㅈ_ㅣ.wav",
+      "duration_ms": 434.989
+    },
+    "ㅉㅏ": {
+      "kind": "cv",
+      "file": "cv\\ㅉ_ㅏ.wav",
+      "duration_ms": 437.982
+    },
+    "ㅉㅐ": {
+      "kind": "cv",
+      "file": "cv\\ㅉ_ㅐ.wav",
+      "duration_ms": 437.982
+    },
+    "ㅉㅑ": {
+      "kind": "cv",
+      "file": "cv\\ㅉ_ㅑ.wav",
+      "duration_ms": 437.982
+    },
+    "ㅉㅒ": {
+      "kind": "cv",
+      "file": "cv\\ㅉ_ㅒ.wav",
+      "duration_ms": 437.982
+    },
+    "ㅉㅓ": {
+      "kind": "cv",
+      "file": "cv\\ㅉ_ㅓ.wav",
+      "duration_ms": 437.982
+    },
+    "ㅉㅔ": {
+      "kind": "cv",
+      "file": "cv\\ㅉ_ㅔ.wav",
+      "duration_ms": 437.982
+    },
+    "ㅉㅕ": {
+      "kind": "cv",
+      "file": "cv\\ㅉ_ㅕ.wav",
+      "duration_ms": 437.982
+    },
+    "ㅉㅖ": {
+      "kind": "cv",
+      "file": "cv\\ㅉ_ㅖ.wav",
+      "duration_ms": 437.982
+    },
+    "ㅉㅗ": {
+      "kind": "cv",
+      "file": "cv\\ㅉ_ㅗ.wav",
+      "duration_ms": 437.982
+    },
+    "ㅉㅘ": {
+      "kind": "cv",
+      "file": "cv\\ㅉ_ㅘ.wav",
+      "duration_ms": 437.982
+    },
+    "ㅉㅙ": {
+      "kind": "cv",
+      "file": "cv\\ㅉ_ㅙ.wav",
+      "duration_ms": 437.982
+    },
+    "ㅉㅚ": {
+      "kind": "cv",
+      "file": "cv\\ㅉ_ㅚ.wav",
+      "duration_ms": 437.982
+    },
+    "ㅉㅛ": {
+      "kind": "cv",
+      "file": "cv\\ㅉ_ㅛ.wav",
+      "duration_ms": 437.982
+    },
+    "ㅉㅜ": {
+      "kind": "cv",
+      "file": "cv\\ㅉ_ㅜ.wav",
+      "duration_ms": 437.982
+    },
+    "ㅉㅝ": {
+      "kind": "cv",
+      "file": "cv\\ㅉ_ㅝ.wav",
+      "duration_ms": 437.982
+    },
+    "ㅉㅞ": {
+      "kind": "cv",
+      "file": "cv\\ㅉ_ㅞ.wav",
+      "duration_ms": 437.982
+    },
+    "ㅉㅟ": {
+      "kind": "cv",
+      "file": "cv\\ㅉ_ㅟ.wav",
+      "duration_ms": 437.982
+    },
+    "ㅉㅠ": {
+      "kind": "cv",
+      "file": "cv\\ㅉ_ㅠ.wav",
+      "duration_ms": 437.982
+    },
+    "ㅉㅡ": {
+      "kind": "cv",
+      "file": "cv\\ㅉ_ㅡ.wav",
+      "duration_ms": 437.982
+    },
+    "ㅉㅢ": {
+      "kind": "cv",
+      "file": "cv\\ㅉ_ㅢ.wav",
+      "duration_ms": 437.982
+    },
+    "ㅉㅣ": {
+      "kind": "cv",
+      "file": "cv\\ㅉ_ㅣ.wav",
+      "duration_ms": 437.982
+    },
+    "ㅊㅏ": {
+      "kind": "cv",
+      "file": "cv\\ㅊ_ㅏ.wav",
+      "duration_ms": 460.0
+    },
+    "ㅊㅐ": {
+      "kind": "cv",
+      "file": "cv\\ㅊ_ㅐ.wav",
+      "duration_ms": 460.0
+    },
+    "ㅊㅑ": {
+      "kind": "cv",
+      "file": "cv\\ㅊ_ㅑ.wav",
+      "duration_ms": 460.0
+    },
+    "ㅊㅒ": {
+      "kind": "cv",
+      "file": "cv\\ㅊ_ㅒ.wav",
+      "duration_ms": 460.0
+    },
+    "ㅊㅓ": {
+      "kind": "cv",
+      "file": "cv\\ㅊ_ㅓ.wav",
+      "duration_ms": 460.0
+    },
+    "ㅊㅔ": {
+      "kind": "cv",
+      "file": "cv\\ㅊ_ㅔ.wav",
+      "duration_ms": 460.0
+    },
+    "ㅊㅕ": {
+      "kind": "cv",
+      "file": "cv\\ㅊ_ㅕ.wav",
+      "duration_ms": 460.0
+    },
+    "ㅊㅖ": {
+      "kind": "cv",
+      "file": "cv\\ㅊ_ㅖ.wav",
+      "duration_ms": 460.0
+    },
+    "ㅊㅗ": {
+      "kind": "cv",
+      "file": "cv\\ㅊ_ㅗ.wav",
+      "duration_ms": 460.0
+    },
+    "ㅊㅘ": {
+      "kind": "cv",
+      "file": "cv\\ㅊ_ㅘ.wav",
+      "duration_ms": 460.0
+    },
+    "ㅊㅙ": {
+      "kind": "cv",
+      "file": "cv\\ㅊ_ㅙ.wav",
+      "duration_ms": 460.0
+    },
+    "ㅊㅚ": {
+      "kind": "cv",
+      "file": "cv\\ㅊ_ㅚ.wav",
+      "duration_ms": 460.0
+    },
+    "ㅊㅛ": {
+      "kind": "cv",
+      "file": "cv\\ㅊ_ㅛ.wav",
+      "duration_ms": 460.0
+    },
+    "ㅊㅜ": {
+      "kind": "cv",
+      "file": "cv\\ㅊ_ㅜ.wav",
+      "duration_ms": 460.0
+    },
+    "ㅊㅝ": {
+      "kind": "cv",
+      "file": "cv\\ㅊ_ㅝ.wav",
+      "duration_ms": 460.0
+    },
+    "ㅊㅞ": {
+      "kind": "cv",
+      "file": "cv\\ㅊ_ㅞ.wav",
+      "duration_ms": 460.0
+    },
+    "ㅊㅟ": {
+      "kind": "cv",
+      "file": "cv\\ㅊ_ㅟ.wav",
+      "duration_ms": 460.0
+    },
+    "ㅊㅠ": {
+      "kind": "cv",
+      "file": "cv\\ㅊ_ㅠ.wav",
+      "duration_ms": 460.0
+    },
+    "ㅊㅡ": {
+      "kind": "cv",
+      "file": "cv\\ㅊ_ㅡ.wav",
+      "duration_ms": 460.0
+    },
+    "ㅊㅢ": {
+      "kind": "cv",
+      "file": "cv\\ㅊ_ㅢ.wav",
+      "duration_ms": 460.0
+    },
+    "ㅊㅣ": {
+      "kind": "cv",
+      "file": "cv\\ㅊ_ㅣ.wav",
+      "duration_ms": 460.0
+    },
+    "ㅋㅏ": {
+      "kind": "cv",
+      "file": "cv\\ㅋ_ㅏ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅋㅐ": {
+      "kind": "cv",
+      "file": "cv\\ㅋ_ㅐ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅋㅑ": {
+      "kind": "cv",
+      "file": "cv\\ㅋ_ㅑ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅋㅒ": {
+      "kind": "cv",
+      "file": "cv\\ㅋ_ㅒ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅋㅓ": {
+      "kind": "cv",
+      "file": "cv\\ㅋ_ㅓ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅋㅔ": {
+      "kind": "cv",
+      "file": "cv\\ㅋ_ㅔ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅋㅕ": {
+      "kind": "cv",
+      "file": "cv\\ㅋ_ㅕ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅋㅖ": {
+      "kind": "cv",
+      "file": "cv\\ㅋ_ㅖ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅋㅗ": {
+      "kind": "cv",
+      "file": "cv\\ㅋ_ㅗ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅋㅘ": {
+      "kind": "cv",
+      "file": "cv\\ㅋ_ㅘ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅋㅙ": {
+      "kind": "cv",
+      "file": "cv\\ㅋ_ㅙ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅋㅚ": {
+      "kind": "cv",
+      "file": "cv\\ㅋ_ㅚ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅋㅛ": {
+      "kind": "cv",
+      "file": "cv\\ㅋ_ㅛ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅋㅜ": {
+      "kind": "cv",
+      "file": "cv\\ㅋ_ㅜ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅋㅝ": {
+      "kind": "cv",
+      "file": "cv\\ㅋ_ㅝ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅋㅞ": {
+      "kind": "cv",
+      "file": "cv\\ㅋ_ㅞ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅋㅟ": {
+      "kind": "cv",
+      "file": "cv\\ㅋ_ㅟ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅋㅠ": {
+      "kind": "cv",
+      "file": "cv\\ㅋ_ㅠ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅋㅡ": {
+      "kind": "cv",
+      "file": "cv\\ㅋ_ㅡ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅋㅢ": {
+      "kind": "cv",
+      "file": "cv\\ㅋ_ㅢ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅋㅣ": {
+      "kind": "cv",
+      "file": "cv\\ㅋ_ㅣ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅌㅏ": {
+      "kind": "cv",
+      "file": "cv\\ㅌ_ㅏ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅌㅐ": {
+      "kind": "cv",
+      "file": "cv\\ㅌ_ㅐ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅌㅑ": {
+      "kind": "cv",
+      "file": "cv\\ㅌ_ㅑ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅌㅒ": {
+      "kind": "cv",
+      "file": "cv\\ㅌ_ㅒ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅌㅓ": {
+      "kind": "cv",
+      "file": "cv\\ㅌ_ㅓ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅌㅔ": {
+      "kind": "cv",
+      "file": "cv\\ㅌ_ㅔ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅌㅕ": {
+      "kind": "cv",
+      "file": "cv\\ㅌ_ㅕ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅌㅖ": {
+      "kind": "cv",
+      "file": "cv\\ㅌ_ㅖ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅌㅗ": {
+      "kind": "cv",
+      "file": "cv\\ㅌ_ㅗ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅌㅘ": {
+      "kind": "cv",
+      "file": "cv\\ㅌ_ㅘ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅌㅙ": {
+      "kind": "cv",
+      "file": "cv\\ㅌ_ㅙ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅌㅚ": {
+      "kind": "cv",
+      "file": "cv\\ㅌ_ㅚ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅌㅛ": {
+      "kind": "cv",
+      "file": "cv\\ㅌ_ㅛ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅌㅜ": {
+      "kind": "cv",
+      "file": "cv\\ㅌ_ㅜ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅌㅝ": {
+      "kind": "cv",
+      "file": "cv\\ㅌ_ㅝ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅌㅞ": {
+      "kind": "cv",
+      "file": "cv\\ㅌ_ㅞ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅌㅟ": {
+      "kind": "cv",
+      "file": "cv\\ㅌ_ㅟ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅌㅠ": {
+      "kind": "cv",
+      "file": "cv\\ㅌ_ㅠ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅌㅡ": {
+      "kind": "cv",
+      "file": "cv\\ㅌ_ㅡ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅌㅢ": {
+      "kind": "cv",
+      "file": "cv\\ㅌ_ㅢ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅌㅣ": {
+      "kind": "cv",
+      "file": "cv\\ㅌ_ㅣ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅍㅏ": {
+      "kind": "cv",
+      "file": "cv\\ㅍ_ㅏ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅍㅐ": {
+      "kind": "cv",
+      "file": "cv\\ㅍ_ㅐ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅍㅑ": {
+      "kind": "cv",
+      "file": "cv\\ㅍ_ㅑ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅍㅒ": {
+      "kind": "cv",
+      "file": "cv\\ㅍ_ㅒ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅍㅓ": {
+      "kind": "cv",
+      "file": "cv\\ㅍ_ㅓ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅍㅔ": {
+      "kind": "cv",
+      "file": "cv\\ㅍ_ㅔ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅍㅕ": {
+      "kind": "cv",
+      "file": "cv\\ㅍ_ㅕ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅍㅖ": {
+      "kind": "cv",
+      "file": "cv\\ㅍ_ㅖ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅍㅗ": {
+      "kind": "cv",
+      "file": "cv\\ㅍ_ㅗ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅍㅘ": {
+      "kind": "cv",
+      "file": "cv\\ㅍ_ㅘ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅍㅙ": {
+      "kind": "cv",
+      "file": "cv\\ㅍ_ㅙ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅍㅚ": {
+      "kind": "cv",
+      "file": "cv\\ㅍ_ㅚ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅍㅛ": {
+      "kind": "cv",
+      "file": "cv\\ㅍ_ㅛ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅍㅜ": {
+      "kind": "cv",
+      "file": "cv\\ㅍ_ㅜ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅍㅝ": {
+      "kind": "cv",
+      "file": "cv\\ㅍ_ㅝ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅍㅞ": {
+      "kind": "cv",
+      "file": "cv\\ㅍ_ㅞ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅍㅟ": {
+      "kind": "cv",
+      "file": "cv\\ㅍ_ㅟ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅍㅠ": {
+      "kind": "cv",
+      "file": "cv\\ㅍ_ㅠ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅍㅡ": {
+      "kind": "cv",
+      "file": "cv\\ㅍ_ㅡ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅍㅢ": {
+      "kind": "cv",
+      "file": "cv\\ㅍ_ㅢ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅍㅣ": {
+      "kind": "cv",
+      "file": "cv\\ㅍ_ㅣ.wav",
+      "duration_ms": 417.982
+    },
+    "ㅎㅏ": {
+      "kind": "cv",
+      "file": "cv\\ㅎ_ㅏ.wav",
+      "duration_ms": 455.51
+    },
+    "ㅎㅐ": {
+      "kind": "cv",
+      "file": "cv\\ㅎ_ㅐ.wav",
+      "duration_ms": 455.51
+    },
+    "ㅎㅑ": {
+      "kind": "cv",
+      "file": "cv\\ㅎ_ㅑ.wav",
+      "duration_ms": 455.51
+    },
+    "ㅎㅒ": {
+      "kind": "cv",
+      "file": "cv\\ㅎ_ㅒ.wav",
+      "duration_ms": 455.51
+    },
+    "ㅎㅓ": {
+      "kind": "cv",
+      "file": "cv\\ㅎ_ㅓ.wav",
+      "duration_ms": 455.51
+    },
+    "ㅎㅔ": {
+      "kind": "cv",
+      "file": "cv\\ㅎ_ㅔ.wav",
+      "duration_ms": 455.51
+    },
+    "ㅎㅕ": {
+      "kind": "cv",
+      "file": "cv\\ㅎ_ㅕ.wav",
+      "duration_ms": 455.51
+    },
+    "ㅎㅖ": {
+      "kind": "cv",
+      "file": "cv\\ㅎ_ㅖ.wav",
+      "duration_ms": 455.51
+    },
+    "ㅎㅗ": {
+      "kind": "cv",
+      "file": "cv\\ㅎ_ㅗ.wav",
+      "duration_ms": 455.51
+    },
+    "ㅎㅘ": {
+      "kind": "cv",
+      "file": "cv\\ㅎ_ㅘ.wav",
+      "duration_ms": 455.51
+    },
+    "ㅎㅙ": {
+      "kind": "cv",
+      "file": "cv\\ㅎ_ㅙ.wav",
+      "duration_ms": 455.51
+    },
+    "ㅎㅚ": {
+      "kind": "cv",
+      "file": "cv\\ㅎ_ㅚ.wav",
+      "duration_ms": 455.51
+    },
+    "ㅎㅛ": {
+      "kind": "cv",
+      "file": "cv\\ㅎ_ㅛ.wav",
+      "duration_ms": 455.51
+    },
+    "ㅎㅜ": {
+      "kind": "cv",
+      "file": "cv\\ㅎ_ㅜ.wav",
+      "duration_ms": 455.51
+    },
+    "ㅎㅝ": {
+      "kind": "cv",
+      "file": "cv\\ㅎ_ㅝ.wav",
+      "duration_ms": 455.51
+    },
+    "ㅎㅞ": {
+      "kind": "cv",
+      "file": "cv\\ㅎ_ㅞ.wav",
+      "duration_ms": 455.51
+    },
+    "ㅎㅟ": {
+      "kind": "cv",
+      "file": "cv\\ㅎ_ㅟ.wav",
+      "duration_ms": 455.51
+    },
+    "ㅎㅠ": {
+      "kind": "cv",
+      "file": "cv\\ㅎ_ㅠ.wav",
+      "duration_ms": 455.51
+    },
+    "ㅎㅡ": {
+      "kind": "cv",
+      "file": "cv\\ㅎ_ㅡ.wav",
+      "duration_ms": 455.51
+    },
+    "ㅎㅢ": {
+      "kind": "cv",
+      "file": "cv\\ㅎ_ㅢ.wav",
+      "duration_ms": 455.51
+    },
+    "ㅎㅣ": {
+      "kind": "cv",
+      "file": "cv\\ㅎ_ㅣ.wav",
+      "duration_ms": 455.51
+    },
+    "ㅏ-ㄱ": {
+      "kind": "vc",
+      "file": "vc\\ㅏ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅏ-ㄲ": {
+      "kind": "vc",
+      "file": "vc\\ㅏ_ㄲ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅏ-ㄴ": {
+      "kind": "vc",
+      "file": "vc\\ㅏ_ㄴ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅏ-ㄷ": {
+      "kind": "vc",
+      "file": "vc\\ㅏ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅏ-ㄸ": {
+      "kind": "vc",
+      "file": "vc\\ㅏ_ㄸ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅏ-ㄹ": {
+      "kind": "vc",
+      "file": "vc\\ㅏ_ㄹ.wav",
+      "duration_ms": 125.986
+    },
+    "ㅏ-ㅁ": {
+      "kind": "vc",
+      "file": "vc\\ㅏ_ㅁ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅏ-ㅂ": {
+      "kind": "vc",
+      "file": "vc\\ㅏ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅏ-ㅃ": {
+      "kind": "vc",
+      "file": "vc\\ㅏ_ㅃ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅏ-ㅅ": {
+      "kind": "vc",
+      "file": "vc\\ㅏ_ㅅ.wav",
+      "duration_ms": 176.78
+    },
+    "ㅏ-ㅆ": {
+      "kind": "vc",
+      "file": "vc\\ㅏ_ㅆ.wav",
+      "duration_ms": 189.252
+    },
+    "ㅏ-ㅇ": {
+      "kind": "vc",
+      "file": "vc\\ㅏ_ㅇ.wav",
+      "duration_ms": 132.993
+    },
+    "ㅏ-ㅈ": {
+      "kind": "vc",
+      "file": "vc\\ㅏ_ㅈ.wav",
+      "duration_ms": 174.989
+    },
+    "ㅏ-ㅉ": {
+      "kind": "vc",
+      "file": "vc\\ㅏ_ㅉ.wav",
+      "duration_ms": 177.982
+    },
+    "ㅏ-ㅊ": {
+      "kind": "vc",
+      "file": "vc\\ㅏ_ㅊ.wav",
+      "duration_ms": 200.0
+    },
+    "ㅏ-ㅋ": {
+      "kind": "vc",
+      "file": "vc\\ㅏ_ㅋ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅏ-ㅌ": {
+      "kind": "vc",
+      "file": "vc\\ㅏ_ㅌ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅏ-ㅍ": {
+      "kind": "vc",
+      "file": "vc\\ㅏ_ㅍ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅏ-ㅎ": {
+      "kind": "vc",
+      "file": "vc\\ㅏ_ㅎ.wav",
+      "duration_ms": 195.51
+    },
+    "ㅐ-ㄱ": {
+      "kind": "vc",
+      "file": "vc\\ㅐ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅐ-ㄲ": {
+      "kind": "vc",
+      "file": "vc\\ㅐ_ㄲ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅐ-ㄴ": {
+      "kind": "vc",
+      "file": "vc\\ㅐ_ㄴ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅐ-ㄷ": {
+      "kind": "vc",
+      "file": "vc\\ㅐ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅐ-ㄸ": {
+      "kind": "vc",
+      "file": "vc\\ㅐ_ㄸ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅐ-ㄹ": {
+      "kind": "vc",
+      "file": "vc\\ㅐ_ㄹ.wav",
+      "duration_ms": 125.986
+    },
+    "ㅐ-ㅁ": {
+      "kind": "vc",
+      "file": "vc\\ㅐ_ㅁ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅐ-ㅂ": {
+      "kind": "vc",
+      "file": "vc\\ㅐ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅐ-ㅃ": {
+      "kind": "vc",
+      "file": "vc\\ㅐ_ㅃ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅐ-ㅅ": {
+      "kind": "vc",
+      "file": "vc\\ㅐ_ㅅ.wav",
+      "duration_ms": 176.78
+    },
+    "ㅐ-ㅆ": {
+      "kind": "vc",
+      "file": "vc\\ㅐ_ㅆ.wav",
+      "duration_ms": 189.252
+    },
+    "ㅐ-ㅇ": {
+      "kind": "vc",
+      "file": "vc\\ㅐ_ㅇ.wav",
+      "duration_ms": 132.993
+    },
+    "ㅐ-ㅈ": {
+      "kind": "vc",
+      "file": "vc\\ㅐ_ㅈ.wav",
+      "duration_ms": 174.989
+    },
+    "ㅐ-ㅉ": {
+      "kind": "vc",
+      "file": "vc\\ㅐ_ㅉ.wav",
+      "duration_ms": 177.982
+    },
+    "ㅐ-ㅊ": {
+      "kind": "vc",
+      "file": "vc\\ㅐ_ㅊ.wav",
+      "duration_ms": 200.0
+    },
+    "ㅐ-ㅋ": {
+      "kind": "vc",
+      "file": "vc\\ㅐ_ㅋ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅐ-ㅌ": {
+      "kind": "vc",
+      "file": "vc\\ㅐ_ㅌ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅐ-ㅍ": {
+      "kind": "vc",
+      "file": "vc\\ㅐ_ㅍ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅐ-ㅎ": {
+      "kind": "vc",
+      "file": "vc\\ㅐ_ㅎ.wav",
+      "duration_ms": 195.51
+    },
+    "ㅑ-ㄱ": {
+      "kind": "vc",
+      "file": "vc\\ㅑ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅑ-ㄲ": {
+      "kind": "vc",
+      "file": "vc\\ㅑ_ㄲ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅑ-ㄴ": {
+      "kind": "vc",
+      "file": "vc\\ㅑ_ㄴ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅑ-ㄷ": {
+      "kind": "vc",
+      "file": "vc\\ㅑ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅑ-ㄸ": {
+      "kind": "vc",
+      "file": "vc\\ㅑ_ㄸ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅑ-ㄹ": {
+      "kind": "vc",
+      "file": "vc\\ㅑ_ㄹ.wav",
+      "duration_ms": 125.986
+    },
+    "ㅑ-ㅁ": {
+      "kind": "vc",
+      "file": "vc\\ㅑ_ㅁ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅑ-ㅂ": {
+      "kind": "vc",
+      "file": "vc\\ㅑ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅑ-ㅃ": {
+      "kind": "vc",
+      "file": "vc\\ㅑ_ㅃ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅑ-ㅅ": {
+      "kind": "vc",
+      "file": "vc\\ㅑ_ㅅ.wav",
+      "duration_ms": 176.78
+    },
+    "ㅑ-ㅆ": {
+      "kind": "vc",
+      "file": "vc\\ㅑ_ㅆ.wav",
+      "duration_ms": 189.252
+    },
+    "ㅑ-ㅇ": {
+      "kind": "vc",
+      "file": "vc\\ㅑ_ㅇ.wav",
+      "duration_ms": 132.993
+    },
+    "ㅑ-ㅈ": {
+      "kind": "vc",
+      "file": "vc\\ㅑ_ㅈ.wav",
+      "duration_ms": 174.989
+    },
+    "ㅑ-ㅉ": {
+      "kind": "vc",
+      "file": "vc\\ㅑ_ㅉ.wav",
+      "duration_ms": 177.982
+    },
+    "ㅑ-ㅊ": {
+      "kind": "vc",
+      "file": "vc\\ㅑ_ㅊ.wav",
+      "duration_ms": 200.0
+    },
+    "ㅑ-ㅋ": {
+      "kind": "vc",
+      "file": "vc\\ㅑ_ㅋ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅑ-ㅌ": {
+      "kind": "vc",
+      "file": "vc\\ㅑ_ㅌ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅑ-ㅍ": {
+      "kind": "vc",
+      "file": "vc\\ㅑ_ㅍ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅑ-ㅎ": {
+      "kind": "vc",
+      "file": "vc\\ㅑ_ㅎ.wav",
+      "duration_ms": 195.51
+    },
+    "ㅒ-ㄱ": {
+      "kind": "vc",
+      "file": "vc\\ㅒ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅒ-ㄲ": {
+      "kind": "vc",
+      "file": "vc\\ㅒ_ㄲ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅒ-ㄴ": {
+      "kind": "vc",
+      "file": "vc\\ㅒ_ㄴ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅒ-ㄷ": {
+      "kind": "vc",
+      "file": "vc\\ㅒ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅒ-ㄸ": {
+      "kind": "vc",
+      "file": "vc\\ㅒ_ㄸ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅒ-ㄹ": {
+      "kind": "vc",
+      "file": "vc\\ㅒ_ㄹ.wav",
+      "duration_ms": 125.986
+    },
+    "ㅒ-ㅁ": {
+      "kind": "vc",
+      "file": "vc\\ㅒ_ㅁ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅒ-ㅂ": {
+      "kind": "vc",
+      "file": "vc\\ㅒ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅒ-ㅃ": {
+      "kind": "vc",
+      "file": "vc\\ㅒ_ㅃ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅒ-ㅅ": {
+      "kind": "vc",
+      "file": "vc\\ㅒ_ㅅ.wav",
+      "duration_ms": 176.78
+    },
+    "ㅒ-ㅆ": {
+      "kind": "vc",
+      "file": "vc\\ㅒ_ㅆ.wav",
+      "duration_ms": 189.252
+    },
+    "ㅒ-ㅇ": {
+      "kind": "vc",
+      "file": "vc\\ㅒ_ㅇ.wav",
+      "duration_ms": 132.993
+    },
+    "ㅒ-ㅈ": {
+      "kind": "vc",
+      "file": "vc\\ㅒ_ㅈ.wav",
+      "duration_ms": 174.989
+    },
+    "ㅒ-ㅉ": {
+      "kind": "vc",
+      "file": "vc\\ㅒ_ㅉ.wav",
+      "duration_ms": 177.982
+    },
+    "ㅒ-ㅊ": {
+      "kind": "vc",
+      "file": "vc\\ㅒ_ㅊ.wav",
+      "duration_ms": 200.0
+    },
+    "ㅒ-ㅋ": {
+      "kind": "vc",
+      "file": "vc\\ㅒ_ㅋ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅒ-ㅌ": {
+      "kind": "vc",
+      "file": "vc\\ㅒ_ㅌ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅒ-ㅍ": {
+      "kind": "vc",
+      "file": "vc\\ㅒ_ㅍ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅒ-ㅎ": {
+      "kind": "vc",
+      "file": "vc\\ㅒ_ㅎ.wav",
+      "duration_ms": 195.51
+    },
+    "ㅓ-ㄱ": {
+      "kind": "vc",
+      "file": "vc\\ㅓ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅓ-ㄲ": {
+      "kind": "vc",
+      "file": "vc\\ㅓ_ㄲ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅓ-ㄴ": {
+      "kind": "vc",
+      "file": "vc\\ㅓ_ㄴ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅓ-ㄷ": {
+      "kind": "vc",
+      "file": "vc\\ㅓ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅓ-ㄸ": {
+      "kind": "vc",
+      "file": "vc\\ㅓ_ㄸ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅓ-ㄹ": {
+      "kind": "vc",
+      "file": "vc\\ㅓ_ㄹ.wav",
+      "duration_ms": 125.986
+    },
+    "ㅓ-ㅁ": {
+      "kind": "vc",
+      "file": "vc\\ㅓ_ㅁ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅓ-ㅂ": {
+      "kind": "vc",
+      "file": "vc\\ㅓ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅓ-ㅃ": {
+      "kind": "vc",
+      "file": "vc\\ㅓ_ㅃ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅓ-ㅅ": {
+      "kind": "vc",
+      "file": "vc\\ㅓ_ㅅ.wav",
+      "duration_ms": 176.78
+    },
+    "ㅓ-ㅆ": {
+      "kind": "vc",
+      "file": "vc\\ㅓ_ㅆ.wav",
+      "duration_ms": 189.252
+    },
+    "ㅓ-ㅇ": {
+      "kind": "vc",
+      "file": "vc\\ㅓ_ㅇ.wav",
+      "duration_ms": 132.993
+    },
+    "ㅓ-ㅈ": {
+      "kind": "vc",
+      "file": "vc\\ㅓ_ㅈ.wav",
+      "duration_ms": 174.989
+    },
+    "ㅓ-ㅉ": {
+      "kind": "vc",
+      "file": "vc\\ㅓ_ㅉ.wav",
+      "duration_ms": 177.982
+    },
+    "ㅓ-ㅊ": {
+      "kind": "vc",
+      "file": "vc\\ㅓ_ㅊ.wav",
+      "duration_ms": 200.0
+    },
+    "ㅓ-ㅋ": {
+      "kind": "vc",
+      "file": "vc\\ㅓ_ㅋ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅓ-ㅌ": {
+      "kind": "vc",
+      "file": "vc\\ㅓ_ㅌ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅓ-ㅍ": {
+      "kind": "vc",
+      "file": "vc\\ㅓ_ㅍ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅓ-ㅎ": {
+      "kind": "vc",
+      "file": "vc\\ㅓ_ㅎ.wav",
+      "duration_ms": 195.51
+    },
+    "ㅔ-ㄱ": {
+      "kind": "vc",
+      "file": "vc\\ㅔ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅔ-ㄲ": {
+      "kind": "vc",
+      "file": "vc\\ㅔ_ㄲ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅔ-ㄴ": {
+      "kind": "vc",
+      "file": "vc\\ㅔ_ㄴ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅔ-ㄷ": {
+      "kind": "vc",
+      "file": "vc\\ㅔ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅔ-ㄸ": {
+      "kind": "vc",
+      "file": "vc\\ㅔ_ㄸ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅔ-ㄹ": {
+      "kind": "vc",
+      "file": "vc\\ㅔ_ㄹ.wav",
+      "duration_ms": 125.986
+    },
+    "ㅔ-ㅁ": {
+      "kind": "vc",
+      "file": "vc\\ㅔ_ㅁ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅔ-ㅂ": {
+      "kind": "vc",
+      "file": "vc\\ㅔ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅔ-ㅃ": {
+      "kind": "vc",
+      "file": "vc\\ㅔ_ㅃ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅔ-ㅅ": {
+      "kind": "vc",
+      "file": "vc\\ㅔ_ㅅ.wav",
+      "duration_ms": 176.78
+    },
+    "ㅔ-ㅆ": {
+      "kind": "vc",
+      "file": "vc\\ㅔ_ㅆ.wav",
+      "duration_ms": 189.252
+    },
+    "ㅔ-ㅇ": {
+      "kind": "vc",
+      "file": "vc\\ㅔ_ㅇ.wav",
+      "duration_ms": 132.993
+    },
+    "ㅔ-ㅈ": {
+      "kind": "vc",
+      "file": "vc\\ㅔ_ㅈ.wav",
+      "duration_ms": 174.989
+    },
+    "ㅔ-ㅉ": {
+      "kind": "vc",
+      "file": "vc\\ㅔ_ㅉ.wav",
+      "duration_ms": 177.982
+    },
+    "ㅔ-ㅊ": {
+      "kind": "vc",
+      "file": "vc\\ㅔ_ㅊ.wav",
+      "duration_ms": 200.0
+    },
+    "ㅔ-ㅋ": {
+      "kind": "vc",
+      "file": "vc\\ㅔ_ㅋ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅔ-ㅌ": {
+      "kind": "vc",
+      "file": "vc\\ㅔ_ㅌ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅔ-ㅍ": {
+      "kind": "vc",
+      "file": "vc\\ㅔ_ㅍ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅔ-ㅎ": {
+      "kind": "vc",
+      "file": "vc\\ㅔ_ㅎ.wav",
+      "duration_ms": 195.51
+    },
+    "ㅕ-ㄱ": {
+      "kind": "vc",
+      "file": "vc\\ㅕ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅕ-ㄲ": {
+      "kind": "vc",
+      "file": "vc\\ㅕ_ㄲ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅕ-ㄴ": {
+      "kind": "vc",
+      "file": "vc\\ㅕ_ㄴ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅕ-ㄷ": {
+      "kind": "vc",
+      "file": "vc\\ㅕ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅕ-ㄸ": {
+      "kind": "vc",
+      "file": "vc\\ㅕ_ㄸ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅕ-ㄹ": {
+      "kind": "vc",
+      "file": "vc\\ㅕ_ㄹ.wav",
+      "duration_ms": 125.986
+    },
+    "ㅕ-ㅁ": {
+      "kind": "vc",
+      "file": "vc\\ㅕ_ㅁ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅕ-ㅂ": {
+      "kind": "vc",
+      "file": "vc\\ㅕ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅕ-ㅃ": {
+      "kind": "vc",
+      "file": "vc\\ㅕ_ㅃ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅕ-ㅅ": {
+      "kind": "vc",
+      "file": "vc\\ㅕ_ㅅ.wav",
+      "duration_ms": 176.78
+    },
+    "ㅕ-ㅆ": {
+      "kind": "vc",
+      "file": "vc\\ㅕ_ㅆ.wav",
+      "duration_ms": 189.252
+    },
+    "ㅕ-ㅇ": {
+      "kind": "vc",
+      "file": "vc\\ㅕ_ㅇ.wav",
+      "duration_ms": 132.993
+    },
+    "ㅕ-ㅈ": {
+      "kind": "vc",
+      "file": "vc\\ㅕ_ㅈ.wav",
+      "duration_ms": 174.989
+    },
+    "ㅕ-ㅉ": {
+      "kind": "vc",
+      "file": "vc\\ㅕ_ㅉ.wav",
+      "duration_ms": 177.982
+    },
+    "ㅕ-ㅊ": {
+      "kind": "vc",
+      "file": "vc\\ㅕ_ㅊ.wav",
+      "duration_ms": 200.0
+    },
+    "ㅕ-ㅋ": {
+      "kind": "vc",
+      "file": "vc\\ㅕ_ㅋ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅕ-ㅌ": {
+      "kind": "vc",
+      "file": "vc\\ㅕ_ㅌ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅕ-ㅍ": {
+      "kind": "vc",
+      "file": "vc\\ㅕ_ㅍ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅕ-ㅎ": {
+      "kind": "vc",
+      "file": "vc\\ㅕ_ㅎ.wav",
+      "duration_ms": 195.51
+    },
+    "ㅖ-ㄱ": {
+      "kind": "vc",
+      "file": "vc\\ㅖ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅖ-ㄲ": {
+      "kind": "vc",
+      "file": "vc\\ㅖ_ㄲ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅖ-ㄴ": {
+      "kind": "vc",
+      "file": "vc\\ㅖ_ㄴ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅖ-ㄷ": {
+      "kind": "vc",
+      "file": "vc\\ㅖ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅖ-ㄸ": {
+      "kind": "vc",
+      "file": "vc\\ㅖ_ㄸ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅖ-ㄹ": {
+      "kind": "vc",
+      "file": "vc\\ㅖ_ㄹ.wav",
+      "duration_ms": 125.986
+    },
+    "ㅖ-ㅁ": {
+      "kind": "vc",
+      "file": "vc\\ㅖ_ㅁ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅖ-ㅂ": {
+      "kind": "vc",
+      "file": "vc\\ㅖ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅖ-ㅃ": {
+      "kind": "vc",
+      "file": "vc\\ㅖ_ㅃ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅖ-ㅅ": {
+      "kind": "vc",
+      "file": "vc\\ㅖ_ㅅ.wav",
+      "duration_ms": 176.78
+    },
+    "ㅖ-ㅆ": {
+      "kind": "vc",
+      "file": "vc\\ㅖ_ㅆ.wav",
+      "duration_ms": 189.252
+    },
+    "ㅖ-ㅇ": {
+      "kind": "vc",
+      "file": "vc\\ㅖ_ㅇ.wav",
+      "duration_ms": 132.993
+    },
+    "ㅖ-ㅈ": {
+      "kind": "vc",
+      "file": "vc\\ㅖ_ㅈ.wav",
+      "duration_ms": 174.989
+    },
+    "ㅖ-ㅉ": {
+      "kind": "vc",
+      "file": "vc\\ㅖ_ㅉ.wav",
+      "duration_ms": 177.982
+    },
+    "ㅖ-ㅊ": {
+      "kind": "vc",
+      "file": "vc\\ㅖ_ㅊ.wav",
+      "duration_ms": 200.0
+    },
+    "ㅖ-ㅋ": {
+      "kind": "vc",
+      "file": "vc\\ㅖ_ㅋ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅖ-ㅌ": {
+      "kind": "vc",
+      "file": "vc\\ㅖ_ㅌ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅖ-ㅍ": {
+      "kind": "vc",
+      "file": "vc\\ㅖ_ㅍ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅖ-ㅎ": {
+      "kind": "vc",
+      "file": "vc\\ㅖ_ㅎ.wav",
+      "duration_ms": 195.51
+    },
+    "ㅗ-ㄱ": {
+      "kind": "vc",
+      "file": "vc\\ㅗ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅗ-ㄲ": {
+      "kind": "vc",
+      "file": "vc\\ㅗ_ㄲ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅗ-ㄴ": {
+      "kind": "vc",
+      "file": "vc\\ㅗ_ㄴ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅗ-ㄷ": {
+      "kind": "vc",
+      "file": "vc\\ㅗ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅗ-ㄸ": {
+      "kind": "vc",
+      "file": "vc\\ㅗ_ㄸ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅗ-ㄹ": {
+      "kind": "vc",
+      "file": "vc\\ㅗ_ㄹ.wav",
+      "duration_ms": 125.986
+    },
+    "ㅗ-ㅁ": {
+      "kind": "vc",
+      "file": "vc\\ㅗ_ㅁ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅗ-ㅂ": {
+      "kind": "vc",
+      "file": "vc\\ㅗ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅗ-ㅃ": {
+      "kind": "vc",
+      "file": "vc\\ㅗ_ㅃ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅗ-ㅅ": {
+      "kind": "vc",
+      "file": "vc\\ㅗ_ㅅ.wav",
+      "duration_ms": 176.78
+    },
+    "ㅗ-ㅆ": {
+      "kind": "vc",
+      "file": "vc\\ㅗ_ㅆ.wav",
+      "duration_ms": 189.252
+    },
+    "ㅗ-ㅇ": {
+      "kind": "vc",
+      "file": "vc\\ㅗ_ㅇ.wav",
+      "duration_ms": 132.993
+    },
+    "ㅗ-ㅈ": {
+      "kind": "vc",
+      "file": "vc\\ㅗ_ㅈ.wav",
+      "duration_ms": 174.989
+    },
+    "ㅗ-ㅉ": {
+      "kind": "vc",
+      "file": "vc\\ㅗ_ㅉ.wav",
+      "duration_ms": 177.982
+    },
+    "ㅗ-ㅊ": {
+      "kind": "vc",
+      "file": "vc\\ㅗ_ㅊ.wav",
+      "duration_ms": 200.0
+    },
+    "ㅗ-ㅋ": {
+      "kind": "vc",
+      "file": "vc\\ㅗ_ㅋ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅗ-ㅌ": {
+      "kind": "vc",
+      "file": "vc\\ㅗ_ㅌ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅗ-ㅍ": {
+      "kind": "vc",
+      "file": "vc\\ㅗ_ㅍ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅗ-ㅎ": {
+      "kind": "vc",
+      "file": "vc\\ㅗ_ㅎ.wav",
+      "duration_ms": 195.51
+    },
+    "ㅘ-ㄱ": {
+      "kind": "vc",
+      "file": "vc\\ㅘ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅘ-ㄲ": {
+      "kind": "vc",
+      "file": "vc\\ㅘ_ㄲ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅘ-ㄴ": {
+      "kind": "vc",
+      "file": "vc\\ㅘ_ㄴ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅘ-ㄷ": {
+      "kind": "vc",
+      "file": "vc\\ㅘ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅘ-ㄸ": {
+      "kind": "vc",
+      "file": "vc\\ㅘ_ㄸ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅘ-ㄹ": {
+      "kind": "vc",
+      "file": "vc\\ㅘ_ㄹ.wav",
+      "duration_ms": 125.986
+    },
+    "ㅘ-ㅁ": {
+      "kind": "vc",
+      "file": "vc\\ㅘ_ㅁ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅘ-ㅂ": {
+      "kind": "vc",
+      "file": "vc\\ㅘ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅘ-ㅃ": {
+      "kind": "vc",
+      "file": "vc\\ㅘ_ㅃ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅘ-ㅅ": {
+      "kind": "vc",
+      "file": "vc\\ㅘ_ㅅ.wav",
+      "duration_ms": 176.78
+    },
+    "ㅘ-ㅆ": {
+      "kind": "vc",
+      "file": "vc\\ㅘ_ㅆ.wav",
+      "duration_ms": 189.252
+    },
+    "ㅘ-ㅇ": {
+      "kind": "vc",
+      "file": "vc\\ㅘ_ㅇ.wav",
+      "duration_ms": 132.993
+    },
+    "ㅘ-ㅈ": {
+      "kind": "vc",
+      "file": "vc\\ㅘ_ㅈ.wav",
+      "duration_ms": 174.989
+    },
+    "ㅘ-ㅉ": {
+      "kind": "vc",
+      "file": "vc\\ㅘ_ㅉ.wav",
+      "duration_ms": 177.982
+    },
+    "ㅘ-ㅊ": {
+      "kind": "vc",
+      "file": "vc\\ㅘ_ㅊ.wav",
+      "duration_ms": 200.0
+    },
+    "ㅘ-ㅋ": {
+      "kind": "vc",
+      "file": "vc\\ㅘ_ㅋ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅘ-ㅌ": {
+      "kind": "vc",
+      "file": "vc\\ㅘ_ㅌ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅘ-ㅍ": {
+      "kind": "vc",
+      "file": "vc\\ㅘ_ㅍ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅘ-ㅎ": {
+      "kind": "vc",
+      "file": "vc\\ㅘ_ㅎ.wav",
+      "duration_ms": 195.51
+    },
+    "ㅙ-ㄱ": {
+      "kind": "vc",
+      "file": "vc\\ㅙ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅙ-ㄲ": {
+      "kind": "vc",
+      "file": "vc\\ㅙ_ㄲ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅙ-ㄴ": {
+      "kind": "vc",
+      "file": "vc\\ㅙ_ㄴ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅙ-ㄷ": {
+      "kind": "vc",
+      "file": "vc\\ㅙ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅙ-ㄸ": {
+      "kind": "vc",
+      "file": "vc\\ㅙ_ㄸ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅙ-ㄹ": {
+      "kind": "vc",
+      "file": "vc\\ㅙ_ㄹ.wav",
+      "duration_ms": 125.986
+    },
+    "ㅙ-ㅁ": {
+      "kind": "vc",
+      "file": "vc\\ㅙ_ㅁ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅙ-ㅂ": {
+      "kind": "vc",
+      "file": "vc\\ㅙ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅙ-ㅃ": {
+      "kind": "vc",
+      "file": "vc\\ㅙ_ㅃ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅙ-ㅅ": {
+      "kind": "vc",
+      "file": "vc\\ㅙ_ㅅ.wav",
+      "duration_ms": 176.78
+    },
+    "ㅙ-ㅆ": {
+      "kind": "vc",
+      "file": "vc\\ㅙ_ㅆ.wav",
+      "duration_ms": 189.252
+    },
+    "ㅙ-ㅇ": {
+      "kind": "vc",
+      "file": "vc\\ㅙ_ㅇ.wav",
+      "duration_ms": 132.993
+    },
+    "ㅙ-ㅈ": {
+      "kind": "vc",
+      "file": "vc\\ㅙ_ㅈ.wav",
+      "duration_ms": 174.989
+    },
+    "ㅙ-ㅉ": {
+      "kind": "vc",
+      "file": "vc\\ㅙ_ㅉ.wav",
+      "duration_ms": 177.982
+    },
+    "ㅙ-ㅊ": {
+      "kind": "vc",
+      "file": "vc\\ㅙ_ㅊ.wav",
+      "duration_ms": 200.0
+    },
+    "ㅙ-ㅋ": {
+      "kind": "vc",
+      "file": "vc\\ㅙ_ㅋ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅙ-ㅌ": {
+      "kind": "vc",
+      "file": "vc\\ㅙ_ㅌ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅙ-ㅍ": {
+      "kind": "vc",
+      "file": "vc\\ㅙ_ㅍ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅙ-ㅎ": {
+      "kind": "vc",
+      "file": "vc\\ㅙ_ㅎ.wav",
+      "duration_ms": 195.51
+    },
+    "ㅚ-ㄱ": {
+      "kind": "vc",
+      "file": "vc\\ㅚ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅚ-ㄲ": {
+      "kind": "vc",
+      "file": "vc\\ㅚ_ㄲ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅚ-ㄴ": {
+      "kind": "vc",
+      "file": "vc\\ㅚ_ㄴ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅚ-ㄷ": {
+      "kind": "vc",
+      "file": "vc\\ㅚ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅚ-ㄸ": {
+      "kind": "vc",
+      "file": "vc\\ㅚ_ㄸ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅚ-ㄹ": {
+      "kind": "vc",
+      "file": "vc\\ㅚ_ㄹ.wav",
+      "duration_ms": 125.986
+    },
+    "ㅚ-ㅁ": {
+      "kind": "vc",
+      "file": "vc\\ㅚ_ㅁ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅚ-ㅂ": {
+      "kind": "vc",
+      "file": "vc\\ㅚ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅚ-ㅃ": {
+      "kind": "vc",
+      "file": "vc\\ㅚ_ㅃ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅚ-ㅅ": {
+      "kind": "vc",
+      "file": "vc\\ㅚ_ㅅ.wav",
+      "duration_ms": 176.78
+    },
+    "ㅚ-ㅆ": {
+      "kind": "vc",
+      "file": "vc\\ㅚ_ㅆ.wav",
+      "duration_ms": 189.252
+    },
+    "ㅚ-ㅇ": {
+      "kind": "vc",
+      "file": "vc\\ㅚ_ㅇ.wav",
+      "duration_ms": 132.993
+    },
+    "ㅚ-ㅈ": {
+      "kind": "vc",
+      "file": "vc\\ㅚ_ㅈ.wav",
+      "duration_ms": 174.989
+    },
+    "ㅚ-ㅉ": {
+      "kind": "vc",
+      "file": "vc\\ㅚ_ㅉ.wav",
+      "duration_ms": 177.982
+    },
+    "ㅚ-ㅊ": {
+      "kind": "vc",
+      "file": "vc\\ㅚ_ㅊ.wav",
+      "duration_ms": 200.0
+    },
+    "ㅚ-ㅋ": {
+      "kind": "vc",
+      "file": "vc\\ㅚ_ㅋ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅚ-ㅌ": {
+      "kind": "vc",
+      "file": "vc\\ㅚ_ㅌ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅚ-ㅍ": {
+      "kind": "vc",
+      "file": "vc\\ㅚ_ㅍ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅚ-ㅎ": {
+      "kind": "vc",
+      "file": "vc\\ㅚ_ㅎ.wav",
+      "duration_ms": 195.51
+    },
+    "ㅛ-ㄱ": {
+      "kind": "vc",
+      "file": "vc\\ㅛ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅛ-ㄲ": {
+      "kind": "vc",
+      "file": "vc\\ㅛ_ㄲ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅛ-ㄴ": {
+      "kind": "vc",
+      "file": "vc\\ㅛ_ㄴ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅛ-ㄷ": {
+      "kind": "vc",
+      "file": "vc\\ㅛ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅛ-ㄸ": {
+      "kind": "vc",
+      "file": "vc\\ㅛ_ㄸ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅛ-ㄹ": {
+      "kind": "vc",
+      "file": "vc\\ㅛ_ㄹ.wav",
+      "duration_ms": 125.986
+    },
+    "ㅛ-ㅁ": {
+      "kind": "vc",
+      "file": "vc\\ㅛ_ㅁ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅛ-ㅂ": {
+      "kind": "vc",
+      "file": "vc\\ㅛ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅛ-ㅃ": {
+      "kind": "vc",
+      "file": "vc\\ㅛ_ㅃ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅛ-ㅅ": {
+      "kind": "vc",
+      "file": "vc\\ㅛ_ㅅ.wav",
+      "duration_ms": 176.78
+    },
+    "ㅛ-ㅆ": {
+      "kind": "vc",
+      "file": "vc\\ㅛ_ㅆ.wav",
+      "duration_ms": 189.252
+    },
+    "ㅛ-ㅇ": {
+      "kind": "vc",
+      "file": "vc\\ㅛ_ㅇ.wav",
+      "duration_ms": 132.993
+    },
+    "ㅛ-ㅈ": {
+      "kind": "vc",
+      "file": "vc\\ㅛ_ㅈ.wav",
+      "duration_ms": 174.989
+    },
+    "ㅛ-ㅉ": {
+      "kind": "vc",
+      "file": "vc\\ㅛ_ㅉ.wav",
+      "duration_ms": 177.982
+    },
+    "ㅛ-ㅊ": {
+      "kind": "vc",
+      "file": "vc\\ㅛ_ㅊ.wav",
+      "duration_ms": 200.0
+    },
+    "ㅛ-ㅋ": {
+      "kind": "vc",
+      "file": "vc\\ㅛ_ㅋ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅛ-ㅌ": {
+      "kind": "vc",
+      "file": "vc\\ㅛ_ㅌ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅛ-ㅍ": {
+      "kind": "vc",
+      "file": "vc\\ㅛ_ㅍ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅛ-ㅎ": {
+      "kind": "vc",
+      "file": "vc\\ㅛ_ㅎ.wav",
+      "duration_ms": 195.51
+    },
+    "ㅜ-ㄱ": {
+      "kind": "vc",
+      "file": "vc\\ㅜ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅜ-ㄲ": {
+      "kind": "vc",
+      "file": "vc\\ㅜ_ㄲ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅜ-ㄴ": {
+      "kind": "vc",
+      "file": "vc\\ㅜ_ㄴ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅜ-ㄷ": {
+      "kind": "vc",
+      "file": "vc\\ㅜ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅜ-ㄸ": {
+      "kind": "vc",
+      "file": "vc\\ㅜ_ㄸ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅜ-ㄹ": {
+      "kind": "vc",
+      "file": "vc\\ㅜ_ㄹ.wav",
+      "duration_ms": 125.986
+    },
+    "ㅜ-ㅁ": {
+      "kind": "vc",
+      "file": "vc\\ㅜ_ㅁ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅜ-ㅂ": {
+      "kind": "vc",
+      "file": "vc\\ㅜ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅜ-ㅃ": {
+      "kind": "vc",
+      "file": "vc\\ㅜ_ㅃ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅜ-ㅅ": {
+      "kind": "vc",
+      "file": "vc\\ㅜ_ㅅ.wav",
+      "duration_ms": 176.78
+    },
+    "ㅜ-ㅆ": {
+      "kind": "vc",
+      "file": "vc\\ㅜ_ㅆ.wav",
+      "duration_ms": 189.252
+    },
+    "ㅜ-ㅇ": {
+      "kind": "vc",
+      "file": "vc\\ㅜ_ㅇ.wav",
+      "duration_ms": 132.993
+    },
+    "ㅜ-ㅈ": {
+      "kind": "vc",
+      "file": "vc\\ㅜ_ㅈ.wav",
+      "duration_ms": 174.989
+    },
+    "ㅜ-ㅉ": {
+      "kind": "vc",
+      "file": "vc\\ㅜ_ㅉ.wav",
+      "duration_ms": 177.982
+    },
+    "ㅜ-ㅊ": {
+      "kind": "vc",
+      "file": "vc\\ㅜ_ㅊ.wav",
+      "duration_ms": 200.0
+    },
+    "ㅜ-ㅋ": {
+      "kind": "vc",
+      "file": "vc\\ㅜ_ㅋ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅜ-ㅌ": {
+      "kind": "vc",
+      "file": "vc\\ㅜ_ㅌ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅜ-ㅍ": {
+      "kind": "vc",
+      "file": "vc\\ㅜ_ㅍ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅜ-ㅎ": {
+      "kind": "vc",
+      "file": "vc\\ㅜ_ㅎ.wav",
+      "duration_ms": 195.51
+    },
+    "ㅝ-ㄱ": {
+      "kind": "vc",
+      "file": "vc\\ㅝ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅝ-ㄲ": {
+      "kind": "vc",
+      "file": "vc\\ㅝ_ㄲ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅝ-ㄴ": {
+      "kind": "vc",
+      "file": "vc\\ㅝ_ㄴ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅝ-ㄷ": {
+      "kind": "vc",
+      "file": "vc\\ㅝ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅝ-ㄸ": {
+      "kind": "vc",
+      "file": "vc\\ㅝ_ㄸ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅝ-ㄹ": {
+      "kind": "vc",
+      "file": "vc\\ㅝ_ㄹ.wav",
+      "duration_ms": 125.986
+    },
+    "ㅝ-ㅁ": {
+      "kind": "vc",
+      "file": "vc\\ㅝ_ㅁ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅝ-ㅂ": {
+      "kind": "vc",
+      "file": "vc\\ㅝ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅝ-ㅃ": {
+      "kind": "vc",
+      "file": "vc\\ㅝ_ㅃ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅝ-ㅅ": {
+      "kind": "vc",
+      "file": "vc\\ㅝ_ㅅ.wav",
+      "duration_ms": 176.78
+    },
+    "ㅝ-ㅆ": {
+      "kind": "vc",
+      "file": "vc\\ㅝ_ㅆ.wav",
+      "duration_ms": 189.252
+    },
+    "ㅝ-ㅇ": {
+      "kind": "vc",
+      "file": "vc\\ㅝ_ㅇ.wav",
+      "duration_ms": 132.993
+    },
+    "ㅝ-ㅈ": {
+      "kind": "vc",
+      "file": "vc\\ㅝ_ㅈ.wav",
+      "duration_ms": 174.989
+    },
+    "ㅝ-ㅉ": {
+      "kind": "vc",
+      "file": "vc\\ㅝ_ㅉ.wav",
+      "duration_ms": 177.982
+    },
+    "ㅝ-ㅊ": {
+      "kind": "vc",
+      "file": "vc\\ㅝ_ㅊ.wav",
+      "duration_ms": 200.0
+    },
+    "ㅝ-ㅋ": {
+      "kind": "vc",
+      "file": "vc\\ㅝ_ㅋ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅝ-ㅌ": {
+      "kind": "vc",
+      "file": "vc\\ㅝ_ㅌ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅝ-ㅍ": {
+      "kind": "vc",
+      "file": "vc\\ㅝ_ㅍ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅝ-ㅎ": {
+      "kind": "vc",
+      "file": "vc\\ㅝ_ㅎ.wav",
+      "duration_ms": 195.51
+    },
+    "ㅞ-ㄱ": {
+      "kind": "vc",
+      "file": "vc\\ㅞ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅞ-ㄲ": {
+      "kind": "vc",
+      "file": "vc\\ㅞ_ㄲ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅞ-ㄴ": {
+      "kind": "vc",
+      "file": "vc\\ㅞ_ㄴ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅞ-ㄷ": {
+      "kind": "vc",
+      "file": "vc\\ㅞ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅞ-ㄸ": {
+      "kind": "vc",
+      "file": "vc\\ㅞ_ㄸ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅞ-ㄹ": {
+      "kind": "vc",
+      "file": "vc\\ㅞ_ㄹ.wav",
+      "duration_ms": 125.986
+    },
+    "ㅞ-ㅁ": {
+      "kind": "vc",
+      "file": "vc\\ㅞ_ㅁ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅞ-ㅂ": {
+      "kind": "vc",
+      "file": "vc\\ㅞ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅞ-ㅃ": {
+      "kind": "vc",
+      "file": "vc\\ㅞ_ㅃ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅞ-ㅅ": {
+      "kind": "vc",
+      "file": "vc\\ㅞ_ㅅ.wav",
+      "duration_ms": 176.78
+    },
+    "ㅞ-ㅆ": {
+      "kind": "vc",
+      "file": "vc\\ㅞ_ㅆ.wav",
+      "duration_ms": 189.252
+    },
+    "ㅞ-ㅇ": {
+      "kind": "vc",
+      "file": "vc\\ㅞ_ㅇ.wav",
+      "duration_ms": 132.993
+    },
+    "ㅞ-ㅈ": {
+      "kind": "vc",
+      "file": "vc\\ㅞ_ㅈ.wav",
+      "duration_ms": 174.989
+    },
+    "ㅞ-ㅉ": {
+      "kind": "vc",
+      "file": "vc\\ㅞ_ㅉ.wav",
+      "duration_ms": 177.982
+    },
+    "ㅞ-ㅊ": {
+      "kind": "vc",
+      "file": "vc\\ㅞ_ㅊ.wav",
+      "duration_ms": 200.0
+    },
+    "ㅞ-ㅋ": {
+      "kind": "vc",
+      "file": "vc\\ㅞ_ㅋ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅞ-ㅌ": {
+      "kind": "vc",
+      "file": "vc\\ㅞ_ㅌ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅞ-ㅍ": {
+      "kind": "vc",
+      "file": "vc\\ㅞ_ㅍ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅞ-ㅎ": {
+      "kind": "vc",
+      "file": "vc\\ㅞ_ㅎ.wav",
+      "duration_ms": 195.51
+    },
+    "ㅟ-ㄱ": {
+      "kind": "vc",
+      "file": "vc\\ㅟ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅟ-ㄲ": {
+      "kind": "vc",
+      "file": "vc\\ㅟ_ㄲ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅟ-ㄴ": {
+      "kind": "vc",
+      "file": "vc\\ㅟ_ㄴ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅟ-ㄷ": {
+      "kind": "vc",
+      "file": "vc\\ㅟ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅟ-ㄸ": {
+      "kind": "vc",
+      "file": "vc\\ㅟ_ㄸ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅟ-ㄹ": {
+      "kind": "vc",
+      "file": "vc\\ㅟ_ㄹ.wav",
+      "duration_ms": 125.986
+    },
+    "ㅟ-ㅁ": {
+      "kind": "vc",
+      "file": "vc\\ㅟ_ㅁ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅟ-ㅂ": {
+      "kind": "vc",
+      "file": "vc\\ㅟ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅟ-ㅃ": {
+      "kind": "vc",
+      "file": "vc\\ㅟ_ㅃ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅟ-ㅅ": {
+      "kind": "vc",
+      "file": "vc\\ㅟ_ㅅ.wav",
+      "duration_ms": 176.78
+    },
+    "ㅟ-ㅆ": {
+      "kind": "vc",
+      "file": "vc\\ㅟ_ㅆ.wav",
+      "duration_ms": 189.252
+    },
+    "ㅟ-ㅇ": {
+      "kind": "vc",
+      "file": "vc\\ㅟ_ㅇ.wav",
+      "duration_ms": 132.993
+    },
+    "ㅟ-ㅈ": {
+      "kind": "vc",
+      "file": "vc\\ㅟ_ㅈ.wav",
+      "duration_ms": 174.989
+    },
+    "ㅟ-ㅉ": {
+      "kind": "vc",
+      "file": "vc\\ㅟ_ㅉ.wav",
+      "duration_ms": 177.982
+    },
+    "ㅟ-ㅊ": {
+      "kind": "vc",
+      "file": "vc\\ㅟ_ㅊ.wav",
+      "duration_ms": 200.0
+    },
+    "ㅟ-ㅋ": {
+      "kind": "vc",
+      "file": "vc\\ㅟ_ㅋ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅟ-ㅌ": {
+      "kind": "vc",
+      "file": "vc\\ㅟ_ㅌ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅟ-ㅍ": {
+      "kind": "vc",
+      "file": "vc\\ㅟ_ㅍ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅟ-ㅎ": {
+      "kind": "vc",
+      "file": "vc\\ㅟ_ㅎ.wav",
+      "duration_ms": 195.51
+    },
+    "ㅠ-ㄱ": {
+      "kind": "vc",
+      "file": "vc\\ㅠ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅠ-ㄲ": {
+      "kind": "vc",
+      "file": "vc\\ㅠ_ㄲ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅠ-ㄴ": {
+      "kind": "vc",
+      "file": "vc\\ㅠ_ㄴ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅠ-ㄷ": {
+      "kind": "vc",
+      "file": "vc\\ㅠ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅠ-ㄸ": {
+      "kind": "vc",
+      "file": "vc\\ㅠ_ㄸ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅠ-ㄹ": {
+      "kind": "vc",
+      "file": "vc\\ㅠ_ㄹ.wav",
+      "duration_ms": 125.986
+    },
+    "ㅠ-ㅁ": {
+      "kind": "vc",
+      "file": "vc\\ㅠ_ㅁ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅠ-ㅂ": {
+      "kind": "vc",
+      "file": "vc\\ㅠ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅠ-ㅃ": {
+      "kind": "vc",
+      "file": "vc\\ㅠ_ㅃ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅠ-ㅅ": {
+      "kind": "vc",
+      "file": "vc\\ㅠ_ㅅ.wav",
+      "duration_ms": 176.78
+    },
+    "ㅠ-ㅆ": {
+      "kind": "vc",
+      "file": "vc\\ㅠ_ㅆ.wav",
+      "duration_ms": 189.252
+    },
+    "ㅠ-ㅇ": {
+      "kind": "vc",
+      "file": "vc\\ㅠ_ㅇ.wav",
+      "duration_ms": 132.993
+    },
+    "ㅠ-ㅈ": {
+      "kind": "vc",
+      "file": "vc\\ㅠ_ㅈ.wav",
+      "duration_ms": 174.989
+    },
+    "ㅠ-ㅉ": {
+      "kind": "vc",
+      "file": "vc\\ㅠ_ㅉ.wav",
+      "duration_ms": 177.982
+    },
+    "ㅠ-ㅊ": {
+      "kind": "vc",
+      "file": "vc\\ㅠ_ㅊ.wav",
+      "duration_ms": 200.0
+    },
+    "ㅠ-ㅋ": {
+      "kind": "vc",
+      "file": "vc\\ㅠ_ㅋ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅠ-ㅌ": {
+      "kind": "vc",
+      "file": "vc\\ㅠ_ㅌ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅠ-ㅍ": {
+      "kind": "vc",
+      "file": "vc\\ㅠ_ㅍ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅠ-ㅎ": {
+      "kind": "vc",
+      "file": "vc\\ㅠ_ㅎ.wav",
+      "duration_ms": 195.51
+    },
+    "ㅡ-ㄱ": {
+      "kind": "vc",
+      "file": "vc\\ㅡ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅡ-ㄲ": {
+      "kind": "vc",
+      "file": "vc\\ㅡ_ㄲ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅡ-ㄴ": {
+      "kind": "vc",
+      "file": "vc\\ㅡ_ㄴ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅡ-ㄷ": {
+      "kind": "vc",
+      "file": "vc\\ㅡ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅡ-ㄸ": {
+      "kind": "vc",
+      "file": "vc\\ㅡ_ㄸ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅡ-ㄹ": {
+      "kind": "vc",
+      "file": "vc\\ㅡ_ㄹ.wav",
+      "duration_ms": 125.986
+    },
+    "ㅡ-ㅁ": {
+      "kind": "vc",
+      "file": "vc\\ㅡ_ㅁ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅡ-ㅂ": {
+      "kind": "vc",
+      "file": "vc\\ㅡ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅡ-ㅃ": {
+      "kind": "vc",
+      "file": "vc\\ㅡ_ㅃ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅡ-ㅅ": {
+      "kind": "vc",
+      "file": "vc\\ㅡ_ㅅ.wav",
+      "duration_ms": 176.78
+    },
+    "ㅡ-ㅆ": {
+      "kind": "vc",
+      "file": "vc\\ㅡ_ㅆ.wav",
+      "duration_ms": 189.252
+    },
+    "ㅡ-ㅇ": {
+      "kind": "vc",
+      "file": "vc\\ㅡ_ㅇ.wav",
+      "duration_ms": 132.993
+    },
+    "ㅡ-ㅈ": {
+      "kind": "vc",
+      "file": "vc\\ㅡ_ㅈ.wav",
+      "duration_ms": 174.989
+    },
+    "ㅡ-ㅉ": {
+      "kind": "vc",
+      "file": "vc\\ㅡ_ㅉ.wav",
+      "duration_ms": 177.982
+    },
+    "ㅡ-ㅊ": {
+      "kind": "vc",
+      "file": "vc\\ㅡ_ㅊ.wav",
+      "duration_ms": 200.0
+    },
+    "ㅡ-ㅋ": {
+      "kind": "vc",
+      "file": "vc\\ㅡ_ㅋ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅡ-ㅌ": {
+      "kind": "vc",
+      "file": "vc\\ㅡ_ㅌ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅡ-ㅍ": {
+      "kind": "vc",
+      "file": "vc\\ㅡ_ㅍ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅡ-ㅎ": {
+      "kind": "vc",
+      "file": "vc\\ㅡ_ㅎ.wav",
+      "duration_ms": 195.51
+    },
+    "ㅢ-ㄱ": {
+      "kind": "vc",
+      "file": "vc\\ㅢ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅢ-ㄲ": {
+      "kind": "vc",
+      "file": "vc\\ㅢ_ㄲ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅢ-ㄴ": {
+      "kind": "vc",
+      "file": "vc\\ㅢ_ㄴ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅢ-ㄷ": {
+      "kind": "vc",
+      "file": "vc\\ㅢ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅢ-ㄸ": {
+      "kind": "vc",
+      "file": "vc\\ㅢ_ㄸ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅢ-ㄹ": {
+      "kind": "vc",
+      "file": "vc\\ㅢ_ㄹ.wav",
+      "duration_ms": 125.986
+    },
+    "ㅢ-ㅁ": {
+      "kind": "vc",
+      "file": "vc\\ㅢ_ㅁ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅢ-ㅂ": {
+      "kind": "vc",
+      "file": "vc\\ㅢ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅢ-ㅃ": {
+      "kind": "vc",
+      "file": "vc\\ㅢ_ㅃ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅢ-ㅅ": {
+      "kind": "vc",
+      "file": "vc\\ㅢ_ㅅ.wav",
+      "duration_ms": 176.78
+    },
+    "ㅢ-ㅆ": {
+      "kind": "vc",
+      "file": "vc\\ㅢ_ㅆ.wav",
+      "duration_ms": 189.252
+    },
+    "ㅢ-ㅇ": {
+      "kind": "vc",
+      "file": "vc\\ㅢ_ㅇ.wav",
+      "duration_ms": 132.993
+    },
+    "ㅢ-ㅈ": {
+      "kind": "vc",
+      "file": "vc\\ㅢ_ㅈ.wav",
+      "duration_ms": 174.989
+    },
+    "ㅢ-ㅉ": {
+      "kind": "vc",
+      "file": "vc\\ㅢ_ㅉ.wav",
+      "duration_ms": 177.982
+    },
+    "ㅢ-ㅊ": {
+      "kind": "vc",
+      "file": "vc\\ㅢ_ㅊ.wav",
+      "duration_ms": 200.0
+    },
+    "ㅢ-ㅋ": {
+      "kind": "vc",
+      "file": "vc\\ㅢ_ㅋ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅢ-ㅌ": {
+      "kind": "vc",
+      "file": "vc\\ㅢ_ㅌ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅢ-ㅍ": {
+      "kind": "vc",
+      "file": "vc\\ㅢ_ㅍ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅢ-ㅎ": {
+      "kind": "vc",
+      "file": "vc\\ㅢ_ㅎ.wav",
+      "duration_ms": 195.51
+    },
+    "ㅣ-ㄱ": {
+      "kind": "vc",
+      "file": "vc\\ㅣ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅣ-ㄲ": {
+      "kind": "vc",
+      "file": "vc\\ㅣ_ㄲ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅣ-ㄴ": {
+      "kind": "vc",
+      "file": "vc\\ㅣ_ㄴ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅣ-ㄷ": {
+      "kind": "vc",
+      "file": "vc\\ㅣ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅣ-ㄸ": {
+      "kind": "vc",
+      "file": "vc\\ㅣ_ㄸ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅣ-ㄹ": {
+      "kind": "vc",
+      "file": "vc\\ㅣ_ㄹ.wav",
+      "duration_ms": 125.986
+    },
+    "ㅣ-ㅁ": {
+      "kind": "vc",
+      "file": "vc\\ㅣ_ㅁ.wav",
+      "duration_ms": 148.005
+    },
+    "ㅣ-ㅂ": {
+      "kind": "vc",
+      "file": "vc\\ㅣ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅣ-ㅃ": {
+      "kind": "vc",
+      "file": "vc\\ㅣ_ㅃ.wav",
+      "duration_ms": 150.0
+    },
+    "ㅣ-ㅅ": {
+      "kind": "vc",
+      "file": "vc\\ㅣ_ㅅ.wav",
+      "duration_ms": 176.78
+    },
+    "ㅣ-ㅆ": {
+      "kind": "vc",
+      "file": "vc\\ㅣ_ㅆ.wav",
+      "duration_ms": 189.252
+    },
+    "ㅣ-ㅇ": {
+      "kind": "vc",
+      "file": "vc\\ㅣ_ㅇ.wav",
+      "duration_ms": 132.993
+    },
+    "ㅣ-ㅈ": {
+      "kind": "vc",
+      "file": "vc\\ㅣ_ㅈ.wav",
+      "duration_ms": 174.989
+    },
+    "ㅣ-ㅉ": {
+      "kind": "vc",
+      "file": "vc\\ㅣ_ㅉ.wav",
+      "duration_ms": 177.982
+    },
+    "ㅣ-ㅊ": {
+      "kind": "vc",
+      "file": "vc\\ㅣ_ㅊ.wav",
+      "duration_ms": 200.0
+    },
+    "ㅣ-ㅋ": {
+      "kind": "vc",
+      "file": "vc\\ㅣ_ㅋ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅣ-ㅌ": {
+      "kind": "vc",
+      "file": "vc\\ㅣ_ㅌ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅣ-ㅍ": {
+      "kind": "vc",
+      "file": "vc\\ㅣ_ㅍ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅣ-ㅎ": {
+      "kind": "vc",
+      "file": "vc\\ㅣ_ㅎ.wav",
+      "duration_ms": 195.51
+    },
+    "ㅏㄱ": {
+      "kind": "coda",
+      "file": "coda\\ㅏ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅏㄴ": {
+      "kind": "coda",
+      "file": "coda\\ㅏ_ㄴ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅏㄷ": {
+      "kind": "coda",
+      "file": "coda\\ㅏ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅏㄹ": {
+      "kind": "coda",
+      "file": "coda\\ㅏ_ㄹ.wav",
+      "duration_ms": 147.982
+    },
+    "ㅏㅁ": {
+      "kind": "coda",
+      "file": "coda\\ㅏ_ㅁ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅏㅂ": {
+      "kind": "coda",
+      "file": "coda\\ㅏ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅏㅇ": {
+      "kind": "coda",
+      "file": "coda\\ㅏ_ㅇ.wav",
+      "duration_ms": 206.984
+    },
+    "ㅐㄱ": {
+      "kind": "coda",
+      "file": "coda\\ㅐ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅐㄴ": {
+      "kind": "coda",
+      "file": "coda\\ㅐ_ㄴ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅐㄷ": {
+      "kind": "coda",
+      "file": "coda\\ㅐ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅐㄹ": {
+      "kind": "coda",
+      "file": "coda\\ㅐ_ㄹ.wav",
+      "duration_ms": 147.982
+    },
+    "ㅐㅁ": {
+      "kind": "coda",
+      "file": "coda\\ㅐ_ㅁ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅐㅂ": {
+      "kind": "coda",
+      "file": "coda\\ㅐ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅐㅇ": {
+      "kind": "coda",
+      "file": "coda\\ㅐ_ㅇ.wav",
+      "duration_ms": 206.984
+    },
+    "ㅑㄱ": {
+      "kind": "coda",
+      "file": "coda\\ㅑ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅑㄴ": {
+      "kind": "coda",
+      "file": "coda\\ㅑ_ㄴ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅑㄷ": {
+      "kind": "coda",
+      "file": "coda\\ㅑ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅑㄹ": {
+      "kind": "coda",
+      "file": "coda\\ㅑ_ㄹ.wav",
+      "duration_ms": 147.982
+    },
+    "ㅑㅁ": {
+      "kind": "coda",
+      "file": "coda\\ㅑ_ㅁ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅑㅂ": {
+      "kind": "coda",
+      "file": "coda\\ㅑ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅑㅇ": {
+      "kind": "coda",
+      "file": "coda\\ㅑ_ㅇ.wav",
+      "duration_ms": 206.984
+    },
+    "ㅒㄱ": {
+      "kind": "coda",
+      "file": "coda\\ㅒ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅒㄴ": {
+      "kind": "coda",
+      "file": "coda\\ㅒ_ㄴ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅒㄷ": {
+      "kind": "coda",
+      "file": "coda\\ㅒ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅒㄹ": {
+      "kind": "coda",
+      "file": "coda\\ㅒ_ㄹ.wav",
+      "duration_ms": 147.982
+    },
+    "ㅒㅁ": {
+      "kind": "coda",
+      "file": "coda\\ㅒ_ㅁ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅒㅂ": {
+      "kind": "coda",
+      "file": "coda\\ㅒ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅒㅇ": {
+      "kind": "coda",
+      "file": "coda\\ㅒ_ㅇ.wav",
+      "duration_ms": 206.984
+    },
+    "ㅓㄱ": {
+      "kind": "coda",
+      "file": "coda\\ㅓ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅓㄴ": {
+      "kind": "coda",
+      "file": "coda\\ㅓ_ㄴ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅓㄷ": {
+      "kind": "coda",
+      "file": "coda\\ㅓ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅓㄹ": {
+      "kind": "coda",
+      "file": "coda\\ㅓ_ㄹ.wav",
+      "duration_ms": 147.982
+    },
+    "ㅓㅁ": {
+      "kind": "coda",
+      "file": "coda\\ㅓ_ㅁ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅓㅂ": {
+      "kind": "coda",
+      "file": "coda\\ㅓ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅓㅇ": {
+      "kind": "coda",
+      "file": "coda\\ㅓ_ㅇ.wav",
+      "duration_ms": 206.984
+    },
+    "ㅔㄱ": {
+      "kind": "coda",
+      "file": "coda\\ㅔ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅔㄴ": {
+      "kind": "coda",
+      "file": "coda\\ㅔ_ㄴ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅔㄷ": {
+      "kind": "coda",
+      "file": "coda\\ㅔ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅔㄹ": {
+      "kind": "coda",
+      "file": "coda\\ㅔ_ㄹ.wav",
+      "duration_ms": 147.982
+    },
+    "ㅔㅁ": {
+      "kind": "coda",
+      "file": "coda\\ㅔ_ㅁ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅔㅂ": {
+      "kind": "coda",
+      "file": "coda\\ㅔ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅔㅇ": {
+      "kind": "coda",
+      "file": "coda\\ㅔ_ㅇ.wav",
+      "duration_ms": 206.984
+    },
+    "ㅕㄱ": {
+      "kind": "coda",
+      "file": "coda\\ㅕ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅕㄴ": {
+      "kind": "coda",
+      "file": "coda\\ㅕ_ㄴ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅕㄷ": {
+      "kind": "coda",
+      "file": "coda\\ㅕ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅕㄹ": {
+      "kind": "coda",
+      "file": "coda\\ㅕ_ㄹ.wav",
+      "duration_ms": 147.982
+    },
+    "ㅕㅁ": {
+      "kind": "coda",
+      "file": "coda\\ㅕ_ㅁ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅕㅂ": {
+      "kind": "coda",
+      "file": "coda\\ㅕ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅕㅇ": {
+      "kind": "coda",
+      "file": "coda\\ㅕ_ㅇ.wav",
+      "duration_ms": 206.984
+    },
+    "ㅖㄱ": {
+      "kind": "coda",
+      "file": "coda\\ㅖ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅖㄴ": {
+      "kind": "coda",
+      "file": "coda\\ㅖ_ㄴ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅖㄷ": {
+      "kind": "coda",
+      "file": "coda\\ㅖ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅖㄹ": {
+      "kind": "coda",
+      "file": "coda\\ㅖ_ㄹ.wav",
+      "duration_ms": 147.982
+    },
+    "ㅖㅁ": {
+      "kind": "coda",
+      "file": "coda\\ㅖ_ㅁ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅖㅂ": {
+      "kind": "coda",
+      "file": "coda\\ㅖ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅖㅇ": {
+      "kind": "coda",
+      "file": "coda\\ㅖ_ㅇ.wav",
+      "duration_ms": 206.984
+    },
+    "ㅗㄱ": {
+      "kind": "coda",
+      "file": "coda\\ㅗ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅗㄴ": {
+      "kind": "coda",
+      "file": "coda\\ㅗ_ㄴ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅗㄷ": {
+      "kind": "coda",
+      "file": "coda\\ㅗ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅗㄹ": {
+      "kind": "coda",
+      "file": "coda\\ㅗ_ㄹ.wav",
+      "duration_ms": 147.982
+    },
+    "ㅗㅁ": {
+      "kind": "coda",
+      "file": "coda\\ㅗ_ㅁ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅗㅂ": {
+      "kind": "coda",
+      "file": "coda\\ㅗ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅗㅇ": {
+      "kind": "coda",
+      "file": "coda\\ㅗ_ㅇ.wav",
+      "duration_ms": 206.984
+    },
+    "ㅘㄱ": {
+      "kind": "coda",
+      "file": "coda\\ㅘ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅘㄴ": {
+      "kind": "coda",
+      "file": "coda\\ㅘ_ㄴ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅘㄷ": {
+      "kind": "coda",
+      "file": "coda\\ㅘ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅘㄹ": {
+      "kind": "coda",
+      "file": "coda\\ㅘ_ㄹ.wav",
+      "duration_ms": 147.982
+    },
+    "ㅘㅁ": {
+      "kind": "coda",
+      "file": "coda\\ㅘ_ㅁ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅘㅂ": {
+      "kind": "coda",
+      "file": "coda\\ㅘ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅘㅇ": {
+      "kind": "coda",
+      "file": "coda\\ㅘ_ㅇ.wav",
+      "duration_ms": 206.984
+    },
+    "ㅙㄱ": {
+      "kind": "coda",
+      "file": "coda\\ㅙ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅙㄴ": {
+      "kind": "coda",
+      "file": "coda\\ㅙ_ㄴ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅙㄷ": {
+      "kind": "coda",
+      "file": "coda\\ㅙ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅙㄹ": {
+      "kind": "coda",
+      "file": "coda\\ㅙ_ㄹ.wav",
+      "duration_ms": 147.982
+    },
+    "ㅙㅁ": {
+      "kind": "coda",
+      "file": "coda\\ㅙ_ㅁ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅙㅂ": {
+      "kind": "coda",
+      "file": "coda\\ㅙ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅙㅇ": {
+      "kind": "coda",
+      "file": "coda\\ㅙ_ㅇ.wav",
+      "duration_ms": 206.984
+    },
+    "ㅚㄱ": {
+      "kind": "coda",
+      "file": "coda\\ㅚ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅚㄴ": {
+      "kind": "coda",
+      "file": "coda\\ㅚ_ㄴ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅚㄷ": {
+      "kind": "coda",
+      "file": "coda\\ㅚ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅚㄹ": {
+      "kind": "coda",
+      "file": "coda\\ㅚ_ㄹ.wav",
+      "duration_ms": 147.982
+    },
+    "ㅚㅁ": {
+      "kind": "coda",
+      "file": "coda\\ㅚ_ㅁ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅚㅂ": {
+      "kind": "coda",
+      "file": "coda\\ㅚ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅚㅇ": {
+      "kind": "coda",
+      "file": "coda\\ㅚ_ㅇ.wav",
+      "duration_ms": 206.984
+    },
+    "ㅛㄱ": {
+      "kind": "coda",
+      "file": "coda\\ㅛ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅛㄴ": {
+      "kind": "coda",
+      "file": "coda\\ㅛ_ㄴ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅛㄷ": {
+      "kind": "coda",
+      "file": "coda\\ㅛ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅛㄹ": {
+      "kind": "coda",
+      "file": "coda\\ㅛ_ㄹ.wav",
+      "duration_ms": 147.982
+    },
+    "ㅛㅁ": {
+      "kind": "coda",
+      "file": "coda\\ㅛ_ㅁ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅛㅂ": {
+      "kind": "coda",
+      "file": "coda\\ㅛ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅛㅇ": {
+      "kind": "coda",
+      "file": "coda\\ㅛ_ㅇ.wav",
+      "duration_ms": 206.984
+    },
+    "ㅜㄱ": {
+      "kind": "coda",
+      "file": "coda\\ㅜ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅜㄴ": {
+      "kind": "coda",
+      "file": "coda\\ㅜ_ㄴ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅜㄷ": {
+      "kind": "coda",
+      "file": "coda\\ㅜ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅜㄹ": {
+      "kind": "coda",
+      "file": "coda\\ㅜ_ㄹ.wav",
+      "duration_ms": 147.982
+    },
+    "ㅜㅁ": {
+      "kind": "coda",
+      "file": "coda\\ㅜ_ㅁ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅜㅂ": {
+      "kind": "coda",
+      "file": "coda\\ㅜ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅜㅇ": {
+      "kind": "coda",
+      "file": "coda\\ㅜ_ㅇ.wav",
+      "duration_ms": 206.984
+    },
+    "ㅝㄱ": {
+      "kind": "coda",
+      "file": "coda\\ㅝ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅝㄴ": {
+      "kind": "coda",
+      "file": "coda\\ㅝ_ㄴ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅝㄷ": {
+      "kind": "coda",
+      "file": "coda\\ㅝ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅝㄹ": {
+      "kind": "coda",
+      "file": "coda\\ㅝ_ㄹ.wav",
+      "duration_ms": 147.982
+    },
+    "ㅝㅁ": {
+      "kind": "coda",
+      "file": "coda\\ㅝ_ㅁ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅝㅂ": {
+      "kind": "coda",
+      "file": "coda\\ㅝ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅝㅇ": {
+      "kind": "coda",
+      "file": "coda\\ㅝ_ㅇ.wav",
+      "duration_ms": 206.984
+    },
+    "ㅞㄱ": {
+      "kind": "coda",
+      "file": "coda\\ㅞ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅞㄴ": {
+      "kind": "coda",
+      "file": "coda\\ㅞ_ㄴ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅞㄷ": {
+      "kind": "coda",
+      "file": "coda\\ㅞ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅞㄹ": {
+      "kind": "coda",
+      "file": "coda\\ㅞ_ㄹ.wav",
+      "duration_ms": 147.982
+    },
+    "ㅞㅁ": {
+      "kind": "coda",
+      "file": "coda\\ㅞ_ㅁ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅞㅂ": {
+      "kind": "coda",
+      "file": "coda\\ㅞ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅞㅇ": {
+      "kind": "coda",
+      "file": "coda\\ㅞ_ㅇ.wav",
+      "duration_ms": 206.984
+    },
+    "ㅟㄱ": {
+      "kind": "coda",
+      "file": "coda\\ㅟ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅟㄴ": {
+      "kind": "coda",
+      "file": "coda\\ㅟ_ㄴ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅟㄷ": {
+      "kind": "coda",
+      "file": "coda\\ㅟ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅟㄹ": {
+      "kind": "coda",
+      "file": "coda\\ㅟ_ㄹ.wav",
+      "duration_ms": 147.982
+    },
+    "ㅟㅁ": {
+      "kind": "coda",
+      "file": "coda\\ㅟ_ㅁ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅟㅂ": {
+      "kind": "coda",
+      "file": "coda\\ㅟ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅟㅇ": {
+      "kind": "coda",
+      "file": "coda\\ㅟ_ㅇ.wav",
+      "duration_ms": 206.984
+    },
+    "ㅠㄱ": {
+      "kind": "coda",
+      "file": "coda\\ㅠ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅠㄴ": {
+      "kind": "coda",
+      "file": "coda\\ㅠ_ㄴ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅠㄷ": {
+      "kind": "coda",
+      "file": "coda\\ㅠ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅠㄹ": {
+      "kind": "coda",
+      "file": "coda\\ㅠ_ㄹ.wav",
+      "duration_ms": 147.982
+    },
+    "ㅠㅁ": {
+      "kind": "coda",
+      "file": "coda\\ㅠ_ㅁ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅠㅂ": {
+      "kind": "coda",
+      "file": "coda\\ㅠ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅠㅇ": {
+      "kind": "coda",
+      "file": "coda\\ㅠ_ㅇ.wav",
+      "duration_ms": 206.984
+    },
+    "ㅡㄱ": {
+      "kind": "coda",
+      "file": "coda\\ㅡ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅡㄴ": {
+      "kind": "coda",
+      "file": "coda\\ㅡ_ㄴ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅡㄷ": {
+      "kind": "coda",
+      "file": "coda\\ㅡ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅡㄹ": {
+      "kind": "coda",
+      "file": "coda\\ㅡ_ㄹ.wav",
+      "duration_ms": 147.982
+    },
+    "ㅡㅁ": {
+      "kind": "coda",
+      "file": "coda\\ㅡ_ㅁ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅡㅂ": {
+      "kind": "coda",
+      "file": "coda\\ㅡ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅡㅇ": {
+      "kind": "coda",
+      "file": "coda\\ㅡ_ㅇ.wav",
+      "duration_ms": 206.984
+    },
+    "ㅢㄱ": {
+      "kind": "coda",
+      "file": "coda\\ㅢ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅢㄴ": {
+      "kind": "coda",
+      "file": "coda\\ㅢ_ㄴ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅢㄷ": {
+      "kind": "coda",
+      "file": "coda\\ㅢ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅢㄹ": {
+      "kind": "coda",
+      "file": "coda\\ㅢ_ㄹ.wav",
+      "duration_ms": 147.982
+    },
+    "ㅢㅁ": {
+      "kind": "coda",
+      "file": "coda\\ㅢ_ㅁ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅢㅂ": {
+      "kind": "coda",
+      "file": "coda\\ㅢ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅢㅇ": {
+      "kind": "coda",
+      "file": "coda\\ㅢ_ㅇ.wav",
+      "duration_ms": 206.984
+    },
+    "ㅣㄱ": {
+      "kind": "coda",
+      "file": "coda\\ㅣ_ㄱ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅣㄴ": {
+      "kind": "coda",
+      "file": "coda\\ㅣ_ㄴ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅣㄷ": {
+      "kind": "coda",
+      "file": "coda\\ㅣ_ㄷ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅣㄹ": {
+      "kind": "coda",
+      "file": "coda\\ㅣ_ㄹ.wav",
+      "duration_ms": 147.982
+    },
+    "ㅣㅁ": {
+      "kind": "coda",
+      "file": "coda\\ㅣ_ㅁ.wav",
+      "duration_ms": 160.998
+    },
+    "ㅣㅂ": {
+      "kind": "coda",
+      "file": "coda\\ㅣ_ㅂ.wav",
+      "duration_ms": 157.982
+    },
+    "ㅣㅇ": {
+      "kind": "coda",
+      "file": "coda\\ㅣ_ㅇ.wav",
+      "duration_ms": 206.984
+    }
+  }
+}

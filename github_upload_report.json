@@ -1,0 +1,15 @@
+{
+  "source": "F:\\hanul_synth_cvvc\\최종본_v3",
+  "target": "F:\\Codex\\hanul-synth-cvvc",
+  "copied_files": 1859,
+  "total_bytes": 80075071,
+  "largest_file_bytes": 7355982,
+  "secret_scan": "passed",
+  "github_100mb_check": "passed",
+  "excluded": [
+    "__pycache__",
+    "*.pyc",
+    "*.pyo"
+  ],
+  "resumed_existing_target": true
+}

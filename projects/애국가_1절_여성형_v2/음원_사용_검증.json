@@ -1,0 +1,31 @@
+{
+  "project_format": "hanul-synth-project-v1",
+  "voicebank_revision": "feminine-humanized-v2",
+  "program_code_unchanged": true,
+  "note_count": 57,
+  "pitch_range": {
+    "minimum": "파♯4",
+    "maximum": "라5"
+  },
+  "loaded_alias_count": 76,
+  "loaded_sample_file_count": 76,
+  "loaded_sample_roots": [
+    "F:\\hanul_synth_cvvc\\detailed_voicebank",
+    "F:\\hanul_synth_cvvc\\voicebank"
+  ],
+  "outside_sample_files": [],
+  "procedural_noise_level": 0.0,
+  "machine_level": 0.0,
+  "instrument": "없음",
+  "wav": {
+    "channels": 1,
+    "sample_width_bits": 16,
+    "sample_rate": 44100,
+    "duration_seconds": 52.85
+  },
+  "sha256": {
+    "애국가_1절_여성형_v2.hsp": "14b0f0bb0e27cb6b379731658d443855d2829148957632ad3f34ab77a98a5b92",
+    "애국가_1절_여성형_v2_보컬.wav": "0429949ac0f5ebd7bbfbd73707f0ebcb11a115cd2216b3728d7e34763795ff72",
+    "애국가_1절_음표목록.csv": "f6dee022c71059a5fd04f34f9987993fbbc3c39d21c4eb5893db0b472a20e026"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "installed_at": "2026-07-28T23:54:23",
+  "target": "F:\\hanul_synth_cvvc",
+  "revision": "assertive-anime-clear-v3-final",
+  "original_synthetic_timbre": true,
+  "actor_recording_or_voice_clone_used": false,
+  "pitch_rule": "MIDI and f0 unchanged; spectral centroid shifted upward",
+  "app_changed_for_new_default_style_and_design_help": true,
+  "app_hash_before": "ea8bd9b4af94d3cf66fa4b784aeb922aee98791640c6a29172bd1e1559f10b2e",
+  "app_hash_after": "0f3710b60d86370571c997640125baeac214d5db454019e90b361222cbb839ae",
+  "protected_program_files_unchanged": true,
+  "copied_voicebank_files": 950,
+  "copied_detailed_files": 883,
+  "verified_voicebank_files": 950,
+  "verified_detailed_files": 883,
+  "copied_preview_files": 3,
+  "backup_voicebank": "F:\\hanul_synth_cvvc\\voicebank_backup_20260728_before_assertive_v3_final",
+  "backup_detailed_voicebank": "F:\\hanul_synth_cvvc\\detailed_voicebank_backup_20260728_before_assertive_v3_final",
+  "backup_app": "F:\\hanul_synth_cvvc\\app_backup_20260728_before_assertive_v3_final.py",
+  "analysis_directory": "F:\\hanul_synth_cvvc\\final_voice_analysis_v3",
+  "preview_directory": "F:\\hanul_synth_cvvc\\final_voice_previews_v3"
+}

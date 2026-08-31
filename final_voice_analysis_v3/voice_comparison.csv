@@ -1,0 +1,17 @@
+﻿alias,revision,file,estimated_f0_hz,spectral_centroid_hz,energy_1320_4400_ratio,energy_above_4000_ratio,rms
+ㅇㅏ,feminine-v2,F:\hanul_synth_cvvc\detailed_voicebank\03_all_399_clean_female\ㅇ\아.wav,441.0,2181.22473219,0.4530694,0.08751836,0.36516833
+ㅇㅏ,assertive-v3,C:\Users\blaze\Documents\Codex\2026-07-27\referenced-chatgpt-conversation-this-is-untrusted\work\assertive_clear_voicebank_replacement\detailed_voicebank\03_all_399_clean_female\ㅇ\아.wav,441.0,2674.89554355,0.60771949,0.16649897,0.27351753
+ㅇㅔ,feminine-v2,F:\hanul_synth_cvvc\detailed_voicebank\03_all_399_clean_female\ㅇ\에.wav,441.0,2170.7784966,0.3513904,0.1339183,0.38135167
+ㅇㅔ,assertive-v3,C:\Users\blaze\Documents\Codex\2026-07-27\referenced-chatgpt-conversation-this-is-untrusted\work\assertive_clear_voicebank_replacement\detailed_voicebank\03_all_399_clean_female\ㅇ\에.wav,441.0,3164.2956558,0.5112511,0.27465076,0.29738134
+ㅇㅖ,feminine-v2,F:\hanul_synth_cvvc\detailed_voicebank\03_all_399_clean_female\ㅇ\예.wav,441.0,2113.08980105,0.32466946,0.13708545,0.40587963
+ㅇㅖ,assertive-v3,C:\Users\blaze\Documents\Codex\2026-07-27\referenced-chatgpt-conversation-this-is-untrusted\work\assertive_clear_voicebank_replacement\detailed_voicebank\03_all_399_clean_female\ㅇ\예.wav,441.0,3137.00982139,0.50114227,0.27625617,0.26632054
+ㅇㅣ,feminine-v2,F:\hanul_synth_cvvc\detailed_voicebank\03_all_399_clean_female\ㅇ\이.wav,441.0,1985.99051494,0.25746414,0.14711184,0.48174694
+ㅇㅣ,assertive-v3,C:\Users\blaze\Documents\Codex\2026-07-27\referenced-chatgpt-conversation-this-is-untrusted\work\assertive_clear_voicebank_replacement\detailed_voicebank\03_all_399_clean_female\ㅇ\이.wav,441.0,3164.16143999,0.43218377,0.29884877,0.42107092
+ㅎㅏ,feminine-v2,F:\hanul_synth_cvvc\detailed_voicebank\03_all_399_clean_female\ㅎ\하.wav,441.0,2226.33983697,0.45848535,0.09418763,0.33638209
+ㅎㅏ,assertive-v3,C:\Users\blaze\Documents\Codex\2026-07-27\referenced-chatgpt-conversation-this-is-untrusted\work\assertive_clear_voicebank_replacement\detailed_voicebank\03_all_399_clean_female\ㅎ\하.wav,441.0,2685.79840098,0.62723287,0.16892764,0.2760726
+ㅅㅏ,feminine-v2,F:\hanul_synth_cvvc\detailed_voicebank\03_all_399_clean_female\ㅅ\사.wav,441.0,2189.46145288,0.4530923,0.088144,0.34463718
+ㅅㅏ,assertive-v3,C:\Users\blaze\Documents\Codex\2026-07-27\referenced-chatgpt-conversation-this-is-untrusted\work\assertive_clear_voicebank_replacement\detailed_voicebank\03_all_399_clean_female\ㅅ\사.wav,441.0,2679.96846636,0.62881176,0.16723833,0.26690179
+ㅈㅏ,feminine-v2,F:\hanul_synth_cvvc\detailed_voicebank\03_all_399_clean_female\ㅈ\자.wav,441.0,2221.92856065,0.45253297,0.09258,0.36956328
+ㅈㅏ,assertive-v3,C:\Users\blaze\Documents\Codex\2026-07-27\referenced-chatgpt-conversation-this-is-untrusted\work\assertive_clear_voicebank_replacement\detailed_voicebank\03_all_399_clean_female\ㅈ\자.wav,441.0,2704.73872601,0.61810394,0.17119806,0.31337493
+ㅇㅜ,feminine-v2,F:\hanul_synth_cvvc\detailed_voicebank\03_all_399_clean_female\ㅇ\우.wav,441.0,1336.75158794,0.1476947,0.05326135,0.46567474
+ㅇㅜ,assertive-v3,C:\Users\blaze\Documents\Codex\2026-07-27\referenced-chatgpt-conversation-this-is-untrusted\work\assertive_clear_voicebank_replacement\detailed_voicebank\03_all_399_clean_female\ㅇ\우.wav,441.0,2207.16788163,0.36791751,0.11042164,0.32744386

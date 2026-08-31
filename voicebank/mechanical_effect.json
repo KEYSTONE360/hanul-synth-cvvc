@@ -1,0 +1,13 @@
+{
+  "name": "mechanical_timbre",
+  "default_amount": 0.03,
+  "equation": "y(t)=Q_b{x(t)*(0.9+0.1*sin(2*pi*31*t))+0.02*sin(2*pi*1.5*f0*t)+0.009*sin(2*pi*2.5*f0*t+0.7)}",
+  "components": {
+    "amplitude_modulation_hz": 31.0,
+    "servo_sine_ratios": [1.5, 2.5],
+    "servo_amplitudes_at_full_amount": [0.02, 0.009],
+    "quantization_bit_depth_range": [13, 9],
+    "reverb": false,
+    "delay": false
+  }
+}

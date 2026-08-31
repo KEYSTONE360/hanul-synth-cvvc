@@ -1,0 +1,39 @@
+{
+  "project_format": "hanul-synth-project-v1",
+  "source": "사용자가 제공한 네잎 클로버 악보 이미지",
+  "program_code_unchanged": true,
+  "program_code_sha256": {
+    "app.py": "ea8bd9b4af94d3cf66fa4b784aeb922aee98791640c6a29172bd1e1559f10b2e",
+    "synth_engine.py": "37530a04640504a9412e552b3d54563113cf7f5f917abc99861852f40e723bff",
+    "korean_phonology.py": "6a19b8699bfa04593848c1a35e425a53ce99384a60bfaa648e21cb48c04599bf"
+  },
+  "voicebank_revision": "feminine-humanized-v2",
+  "bar_count": 28,
+  "note_count": 150,
+  "piano_roll_end_beat": 55.5,
+  "pitch_range": {
+    "minimum": "미4",
+    "maximum": "파5"
+  },
+  "loaded_alias_count": 150,
+  "loaded_sample_file_count": 150,
+  "loaded_sample_roots": [
+    "F:\\hanul_synth_cvvc\\detailed_voicebank",
+    "F:\\hanul_synth_cvvc\\voicebank"
+  ],
+  "outside_sample_files": [],
+  "procedural_noise_level": 0.0,
+  "machine_level": 0.0,
+  "instrument": "없음",
+  "wav": {
+    "channels": 1,
+    "sample_width_bits": 16,
+    "sample_rate": 44100,
+    "duration_seconds": 55.85
+  },
+  "sha256": {
+    "네잎클로버_여성형_v2.hsp": "ae4d499b463d6234726eeff7335ddfab140db4f314af984ac341d7319a5c63f8",
+    "네잎클로버_여성형_v2_보컬.wav": "9f282c2dfb28cd05201fe90528ddd7c0e5b343e3792ec4fca4bd69799140f8d5",
+    "네잎클로버_음표목록.csv": "172b6642059cffe4c511c5376cddbdb1603ebc8e7a70956aaba366472af1faaf"
+  }
+}

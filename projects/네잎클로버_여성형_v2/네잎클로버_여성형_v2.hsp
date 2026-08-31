@@ -1,0 +1,1218 @@
+{
+  "format": "hanul-synth-project-v1",
+  "settings": {
+    "bpm": 60,
+    "note_length": 0.5,
+    "voice_style": "레이·테토풍 여성",
+    "instrument": "없음",
+    "noise_level": 0.0,
+    "machine_level": 0.0,
+    "phonology": true,
+    "initial_rule": true,
+    "backing_path": "",
+    "backing_volume": 0.0,
+    "max_empty_gap": 0.5
+  },
+  "notes": [
+    {
+      "start": 0.0,
+      "length": 0.25,
+      "midi": 67,
+      "lyric": " 깊",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 0.25,
+      "length": 0.25,
+      "midi": 67,
+      "lyric": "고",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 0.5,
+      "length": 0.25,
+      "midi": 67,
+      "lyric": " 작",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 0.75,
+      "length": 0.25,
+      "midi": 76,
+      "lyric": "은",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 1.0,
+      "length": 0.25,
+      "midi": 72,
+      "lyric": " 산",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 1.25,
+      "length": 0.25,
+      "midi": 67,
+      "lyric": "골",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 1.5,
+      "length": 0.25,
+      "midi": 64,
+      "lyric": "짜",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 1.75,
+      "length": 0.25,
+      "midi": 64,
+      "lyric": "기",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 2.0,
+      "length": 0.75,
+      "midi": 65,
+      "lyric": " 사",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 2.75,
+      "length": 0.25,
+      "midi": 74,
+      "lyric": "이",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 3.0,
+      "length": 1.0,
+      "midi": 76,
+      "lyric": "로",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 4.0,
+      "length": 0.25,
+      "midi": 65,
+      "lyric": " 맑",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 4.25,
+      "length": 0.25,
+      "midi": 65,
+      "lyric": "은",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 4.5,
+      "length": 0.25,
+      "midi": 74,
+      "lyric": " 물",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 4.75,
+      "length": 0.25,
+      "midi": 71,
+      "lyric": " 흐",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 5.0,
+      "length": 0.5,
+      "midi": 67,
+      "lyric": "르",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 5.5,
+      "length": 0.5,
+      "midi": 65,
+      "lyric": "는",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 6.0,
+      "length": 0.25,
+      "midi": 64,
+      "lyric": " 작",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 6.25,
+      "length": 0.25,
+      "midi": 64,
+      "lyric": "은",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 6.5,
+      "length": 0.25,
+      "midi": 64,
+      "lyric": " 샘",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 6.75,
+      "length": 0.25,
+      "midi": 72,
+      "lyric": "터",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 7.0,
+      "length": 1.0,
+      "midi": 72,
+      "lyric": "에",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 8.0,
+      "length": 0.25,
+      "midi": 67,
+      "lyric": " 예",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 8.25,
+      "length": 0.25,
+      "midi": 67,
+      "lyric": "쁜",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 8.5,
+      "length": 0.25,
+      "midi": 67,
+      "lyric": " 꽃",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 8.75,
+      "length": 0.25,
+      "midi": 76,
+      "lyric": "들",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 9.0,
+      "length": 0.25,
+      "midi": 72,
+      "lyric": " 사",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 9.25,
+      "length": 0.25,
+      "midi": 67,
+      "lyric": "이",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 9.5,
+      "length": 0.5,
+      "midi": 64,
+      "lyric": "에",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 10.0,
+      "length": 0.375,
+      "midi": 65,
+      "lyric": " 살",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 10.375,
+      "length": 0.125,
+      "midi": 65,
+      "lyric": "짝",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 10.5,
+      "length": 0.25,
+      "midi": 65,
+      "lyric": " 숨",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 10.75,
+      "length": 0.25,
+      "midi": 74,
+      "lyric": "겨",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 11.0,
+      "length": 1.0,
+      "midi": 76,
+      "lyric": "진",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 12.0,
+      "length": 0.375,
+      "midi": 65,
+      "lyric": " 이",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 12.375,
+      "length": 0.125,
+      "midi": 65,
+      "lyric": "슬",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 12.5,
+      "length": 0.25,
+      "midi": 65,
+      "lyric": " 먹",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 12.75,
+      "length": 0.25,
+      "midi": 74,
+      "lyric": "고",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 13.0,
+      "length": 0.25,
+      "midi": 71,
+      "lyric": " 피",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 13.25,
+      "length": 0.25,
+      "midi": 67,
+      "lyric": "어",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 13.5,
+      "length": 0.5,
+      "midi": 65,
+      "lyric": "난",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 14.0,
+      "length": 0.25,
+      "midi": 64,
+      "lyric": " 네",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 14.25,
+      "length": 0.25,
+      "midi": 64,
+      "lyric": "잎",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 14.5,
+      "length": 0.25,
+      "midi": 64,
+      "lyric": "클",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 14.75,
+      "length": 0.25,
+      "midi": 72,
+      "lyric": "로",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 15.0,
+      "length": 0.25,
+      "midi": 72,
+      "lyric": "버",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 15.25,
+      "length": 0.25,
+      "midi": 72,
+      "lyric": " 랄",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 15.5,
+      "length": 0.25,
+      "midi": 74,
+      "lyric": "랄",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 15.75,
+      "length": 0.25,
+      "midi": 76,
+      "lyric": "라",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 16.0,
+      "length": 0.75,
+      "midi": 77,
+      "lyric": " 한",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 16.75,
+      "length": 0.25,
+      "midi": 72,
+      "lyric": "아",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 17.0,
+      "length": 0.25,
+      "midi": 77,
+      "lyric": " 잎",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 17.25,
+      "length": 0.25,
+      "midi": 77,
+      "lyric": " 랄",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 17.5,
+      "length": 0.25,
+      "midi": 76,
+      "lyric": "랄",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 17.75,
+      "length": 0.25,
+      "midi": 72,
+      "lyric": "라",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 18.0,
+      "length": 0.75,
+      "midi": 76,
+      "lyric": " 두",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 18.75,
+      "length": 0.25,
+      "midi": 72,
+      "lyric": "우",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 19.0,
+      "length": 0.25,
+      "midi": 76,
+      "lyric": " 잎",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 19.25,
+      "length": 0.25,
+      "midi": 76,
+      "lyric": " 랄",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 19.5,
+      "length": 0.25,
+      "midi": 74,
+      "lyric": "랄",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 19.75,
+      "length": 0.25,
+      "midi": 71,
+      "lyric": "라",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 20.0,
+      "length": 0.75,
+      "midi": 74,
+      "lyric": " 세",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 20.75,
+      "length": 0.25,
+      "midi": 71,
+      "lyric": "에",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 21.0,
+      "length": 0.25,
+      "midi": 74,
+      "lyric": " 잎",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 21.25,
+      "length": 0.25,
+      "midi": 74,
+      "lyric": " 랄",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 21.5,
+      "length": 0.25,
+      "midi": 72,
+      "lyric": "랄",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 21.75,
+      "length": 0.25,
+      "midi": 69,
+      "lyric": "라",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 22.0,
+      "length": 0.5,
+      "midi": 72,
+      "lyric": " 네",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 22.5,
+      "length": 0.5,
+      "midi": 74,
+      "lyric": "에",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 23.0,
+      "length": 1.0,
+      "midi": 76,
+      "lyric": " 잎",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 24.25,
+      "length": 0.25,
+      "midi": 69,
+      "lyric": " 랄",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 24.5,
+      "length": 0.25,
+      "midi": 69,
+      "lyric": "랄",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 24.75,
+      "length": 0.25,
+      "midi": 69,
+      "lyric": "라",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 25.25,
+      "length": 0.25,
+      "midi": 69,
+      "lyric": " 랄",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 25.5,
+      "length": 0.25,
+      "midi": 67,
+      "lyric": "랄",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 25.75,
+      "length": 0.25,
+      "midi": 65,
+      "lyric": "라",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 26.25,
+      "length": 0.25,
+      "midi": 64,
+      "lyric": " 랄",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 26.5,
+      "length": 0.25,
+      "midi": 67,
+      "lyric": "랄",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 26.75,
+      "length": 0.25,
+      "midi": 67,
+      "lyric": "라",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 27.25,
+      "length": 0.25,
+      "midi": 72,
+      "lyric": " 랄",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 27.5,
+      "length": 0.25,
+      "midi": 71,
+      "lyric": "랄",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 27.75,
+      "length": 0.25,
+      "midi": 69,
+      "lyric": "라",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 28.25,
+      "length": 0.25,
+      "midi": 71,
+      "lyric": " 랄",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 28.5,
+      "length": 0.25,
+      "midi": 71,
+      "lyric": "랄",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 28.75,
+      "length": 0.25,
+      "midi": 71,
+      "lyric": "라",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 29.25,
+      "length": 0.25,
+      "midi": 71,
+      "lyric": " 랄",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 29.5,
+      "length": 0.25,
+      "midi": 69,
+      "lyric": "랄",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 29.75,
+      "length": 0.25,
+      "midi": 67,
+      "lyric": "라",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 30.0,
+      "length": 0.5,
+      "midi": 72,
+      "lyric": " 네",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 30.5,
+      "length": 0.5,
+      "midi": 71,
+      "lyric": "에",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 31.0,
+      "length": 1.0,
+      "midi": 70,
+      "lyric": " 잎",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 32.0,
+      "length": 0.5,
+      "midi": 76,
+      "lyric": " 행",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 32.5,
+      "length": 0.25,
+      "midi": 76,
+      "lyric": "운",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 32.75,
+      "length": 0.25,
+      "midi": 76,
+      "lyric": "을",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 33.25,
+      "length": 0.25,
+      "midi": 76,
+      "lyric": " 가",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 33.5,
+      "length": 0.25,
+      "midi": 77,
+      "lyric": "져",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 33.75,
+      "length": 0.25,
+      "midi": 76,
+      "lyric": "다",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 34.0,
+      "length": 0.75,
+      "midi": 74,
+      "lyric": " 준",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 34.75,
+      "length": 0.25,
+      "midi": 72,
+      "lyric": "다",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 35.0,
+      "length": 1.0,
+      "midi": 67,
+      "lyric": "는",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 36.0,
+      "length": 0.5,
+      "midi": 74,
+      "lyric": " 수",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 36.5,
+      "length": 0.25,
+      "midi": 74,
+      "lyric": "줍",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 36.75,
+      "length": 0.25,
+      "midi": 76,
+      "lyric": "은",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 37.0,
+      "length": 0.25,
+      "midi": 76,
+      "lyric": " 얼",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 37.25,
+      "length": 0.25,
+      "midi": 74,
+      "lyric": "굴",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 37.5,
+      "length": 0.25,
+      "midi": 72,
+      "lyric": "의",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 37.75,
+      "length": 0.25,
+      "midi": 71,
+      "lyric": " 미",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 38.0,
+      "length": 1.5,
+      "midi": 71,
+      "lyric": "소",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 40.0,
+      "length": 0.25,
+      "midi": 67,
+      "lyric": " 한",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 40.25,
+      "length": 0.25,
+      "midi": 67,
+      "lyric": "줄",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 40.5,
+      "length": 0.25,
+      "midi": 67,
+      "lyric": "기",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 40.75,
+      "length": 0.25,
+      "midi": 76,
+      "lyric": "의",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 41.0,
+      "length": 0.25,
+      "midi": 72,
+      "lyric": " 따",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 41.25,
+      "length": 0.25,
+      "midi": 67,
+      "lyric": "스",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 41.5,
+      "length": 0.5,
+      "midi": 64,
+      "lyric": "한",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 42.0,
+      "length": 0.375,
+      "midi": 65,
+      "lyric": " 햇",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 42.375,
+      "length": 0.125,
+      "midi": 65,
+      "lyric": "살",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 42.5,
+      "length": 0.25,
+      "midi": 65,
+      "lyric": " 받",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 42.75,
+      "length": 0.25,
+      "midi": 74,
+      "lyric": "으",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 43.0,
+      "length": 1.0,
+      "midi": 76,
+      "lyric": "며",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 44.0,
+      "length": 0.375,
+      "midi": 65,
+      "lyric": " 희",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 44.375,
+      "length": 0.125,
+      "midi": 65,
+      "lyric": "망",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 44.5,
+      "length": 0.25,
+      "midi": 65,
+      "lyric": "으",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 44.75,
+      "length": 0.25,
+      "midi": 74,
+      "lyric": "로",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 45.0,
+      "length": 0.25,
+      "midi": 71,
+      "lyric": " 가",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 45.25,
+      "length": 0.25,
+      "midi": 67,
+      "lyric": "득",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 45.5,
+      "length": 0.5,
+      "midi": 65,
+      "lyric": "한",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 46.0,
+      "length": 0.25,
+      "midi": 64,
+      "lyric": " 나",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 46.25,
+      "length": 0.25,
+      "midi": 64,
+      "lyric": "의",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 46.5,
+      "length": 0.25,
+      "midi": 64,
+      "lyric": " 친",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 46.75,
+      "length": 0.25,
+      "midi": 72,
+      "lyric": "구",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 47.0,
+      "length": 0.5,
+      "midi": 72,
+      "lyric": "야",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 47.5,
+      "length": 0.25,
+      "midi": 72,
+      "lyric": " 빛",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 47.75,
+      "length": 0.25,
+      "midi": 71,
+      "lyric": "처",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 48.0,
+      "length": 1.0,
+      "midi": 69,
+      "lyric": "럼",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 49.0,
+      "length": 0.5,
+      "midi": 69,
+      "lyric": " 밝",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 49.5,
+      "length": 0.25,
+      "midi": 72,
+      "lyric": "은",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 49.75,
+      "length": 0.25,
+      "midi": 76,
+      "lyric": "으",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 50.0,
+      "length": 0.5,
+      "midi": 76,
+      "lyric": " 마",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 50.5,
+      "length": 0.25,
+      "midi": 74,
+      "lyric": "음",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 50.75,
+      "length": 0.25,
+      "midi": 72,
+      "lyric": "으",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 51.0,
+      "length": 1.0,
+      "midi": 69,
+      "lyric": "로",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 52.0,
+      "length": 0.5,
+      "midi": 74,
+      "lyric": " 너",
+      "velocity": 106,
+      "noise": 0.0
+    },
+    {
+      "start": 52.5,
+      "length": 0.25,
+      "midi": 74,
+      "lyric": "어",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 52.75,
+      "length": 0.25,
+      "midi": 72,
+      "lyric": "를",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 53.0,
+      "length": 0.25,
+      "midi": 71,
+      "lyric": " 닮",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 53.25,
+      "length": 0.25,
+      "midi": 72,
+      "lyric": "아",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 53.5,
+      "length": 0.25,
+      "midi": 74,
+      "lyric": "고",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 53.75,
+      "length": 0.25,
+      "midi": 76,
+      "lyric": " 싶",
+      "velocity": 102,
+      "noise": 0.0
+    },
+    {
+      "start": 54.0,
+      "length": 1.5,
+      "midi": 72,
+      "lyric": "어",
+      "velocity": 106,
+      "noise": 0.0
+    }
+  ]
+}

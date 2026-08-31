@@ -1,0 +1,266 @@
+{
+  "name": "Hanul Assertive Clear Anime Female",
+  "method": "human-recording-free additive synthesis",
+  "equation": "x(t)=sum(A_k(t)*sin(2*pi*f_k*t+phase_k))+bounded_filtered_noise(t)",
+  "sample_rate": 44100,
+  "base_f0_hz": 440.0,
+  "base_midi": 69,
+  "harmonic_count": 36,
+  "style_blend": {
+    "bright_assertive": 0.56,
+    "clear_electronic": 0.38,
+    "textured_nasal": 0.06
+  },
+  "style_description": {
+    "bright_assertive": "높고 빠른 어택과 선명한 고역",
+    "clear_electronic": "투명하고 안정적인 전자음",
+    "textured_nasal": "홀수 배음과 비강 공명이 강조된 거친 전자음"
+  },
+  "vowel_formants_hz": {
+    "ㅏ": [
+      980,
+      1900,
+      4050
+    ],
+    "ㅐ": [
+      840,
+      2850,
+      4250
+    ],
+    "ㅓ": [
+      760,
+      1650,
+      3900
+    ],
+    "ㅔ": [
+      610,
+      3200,
+      4450
+    ],
+    "ㅗ": [
+      540,
+      1280,
+      3900
+    ],
+    "ㅜ": [
+      420,
+      1120,
+      3750
+    ],
+    "ㅡ": [
+      500,
+      2380,
+      4100
+    ],
+    "ㅣ": [
+      360,
+      3850,
+      4700
+    ]
+  },
+  "vowel_paths": {
+    "ㅏ": [
+      "ㅏ",
+      "ㅏ"
+    ],
+    "ㅐ": [
+      "ㅐ",
+      "ㅐ"
+    ],
+    "ㅑ": [
+      "ㅣ",
+      "ㅏ"
+    ],
+    "ㅒ": [
+      "ㅣ",
+      "ㅐ"
+    ],
+    "ㅓ": [
+      "ㅓ",
+      "ㅓ"
+    ],
+    "ㅔ": [
+      "ㅔ",
+      "ㅔ"
+    ],
+    "ㅕ": [
+      "ㅣ",
+      "ㅓ"
+    ],
+    "ㅖ": [
+      "ㅣ",
+      "ㅔ"
+    ],
+    "ㅗ": [
+      "ㅗ",
+      "ㅗ"
+    ],
+    "ㅘ": [
+      "ㅗ",
+      "ㅏ"
+    ],
+    "ㅙ": [
+      "ㅗ",
+      "ㅐ"
+    ],
+    "ㅚ": [
+      "ㅗ",
+      "ㅔ"
+    ],
+    "ㅛ": [
+      "ㅣ",
+      "ㅗ"
+    ],
+    "ㅜ": [
+      "ㅜ",
+      "ㅜ"
+    ],
+    "ㅝ": [
+      "ㅜ",
+      "ㅓ"
+    ],
+    "ㅞ": [
+      "ㅜ",
+      "ㅔ"
+    ],
+    "ㅟ": [
+      "ㅜ",
+      "ㅣ"
+    ],
+    "ㅠ": [
+      "ㅣ",
+      "ㅜ"
+    ],
+    "ㅡ": [
+      "ㅡ",
+      "ㅡ"
+    ],
+    "ㅢ": [
+      "ㅡ",
+      "ㅣ"
+    ],
+    "ㅣ": [
+      "ㅣ",
+      "ㅣ"
+    ]
+  },
+  "formant_anchor_amplitudes": [
+    0.058,
+    0.049,
+    0.031
+  ],
+  "onset_relative_gains": {
+    "ㄱ": 1.1956,
+    "ㄲ": 1.2544,
+    "ㄴ": 1.1424,
+    "ㄷ": 1.2152,
+    "ㄸ": 1.274,
+    "ㄹ": 1.1832,
+    "ㅁ": 1.1424,
+    "ㅂ": 1.1956,
+    "ㅃ": 1.2642,
+    "ㅅ": 1.3132000000000001,
+    "ㅆ": 1.3523999999999998,
+    "ㅇ": 1.02,
+    "ㅈ": 1.274,
+    "ㅉ": 1.3328,
+    "ㅊ": 1.3523999999999998,
+    "ㅋ": 1.3132000000000001,
+    "ㅌ": 1.323,
+    "ㅍ": 1.3132000000000001,
+    "ㅎ": 1.3916
+  },
+  "noise_policy": "자음 종류별 중심 주파수와 대역폭 안에서 고정 seed로 생성",
+  "sources": [
+    "https://mechanical-girl.seesaa.net/article/460135623.html",
+    "https://mechanicalgirl.jp/guidelines/"
+  ],
+  "voice_revision": "assertive-anime-clear-v3-final",
+  "identity_policy": "original synthetic timbre; no actor recording or voice clone used",
+  "compatibility": "drop-in CVVC replacement; aliases and project format unchanged",
+  "harmonic_base_ratios_h1_1": [
+    1.0,
+    0.76,
+    0.64,
+    0.56,
+    0.5,
+    0.45,
+    0.41,
+    0.37,
+    0.34,
+    0.31,
+    0.285,
+    0.26,
+    0.235,
+    0.215,
+    0.198,
+    0.182,
+    0.166,
+    0.152,
+    0.139,
+    0.127,
+    0.116,
+    0.106,
+    0.097,
+    0.089,
+    0.081,
+    0.074,
+    0.068,
+    0.062,
+    0.057,
+    0.052,
+    0.048,
+    0.044,
+    0.04,
+    0.037,
+    0.034,
+    0.031
+  ],
+  "harmonic_band_multipliers": {
+    "H1-H2_body": 0.88,
+    "H3-H6_forward_presence": 1.22,
+    "H7-H10_clarity": 1.26,
+    "H11-H16_bright_gloss": 1.14,
+    "H17-H24_controlled_air": 0.92,
+    "H25-H36_anti_metallic_tail": 0.68
+  },
+  "timbre_changes": [
+    "기본주파수와 MIDI 음정은 유지하고 스펙트럼 중심만 위로 이동",
+    "F2/F3를 전방으로 올린 밝고 자신감 있는 여성 공명",
+    "3~10배음 강조로 모음 경계와 자음 뒤 모음 시작을 선명화",
+    "11~16배음은 광택만 남기고 9kHz 이상 금속성 완만 감쇠",
+    "자음 시작 세기는 높이되 필터 잡음 총량은 제한",
+    "기존 v2보다 jitter·shimmer·세그먼트 편차를 줄여 깨끗한 피치"
+  ],
+  "humanization": {
+    "harmonic_frequency_rule": "shared f0; all harmonics remain phase-related",
+    "harmonic_amplitude_fingerprint": "deterministic correlated 3% log variation",
+    "segment_amplitude_deviation_std": 0.012,
+    "pitch_jitter": [
+      {
+        "frequency_hz": 5.3,
+        "depth_ratio": 0.00028
+      },
+      {
+        "frequency_hz": 8.9,
+        "depth_ratio": 0.0001
+      }
+    ],
+    "shimmer": {
+      "frequency_hz": 3.9,
+      "depth_ratio": 0.0065
+    }
+  },
+  "clarity": {
+    "perceived_pitch_method": "keep f0 unchanged; attenuate H1-H2 and emphasize H3-H16",
+    "formant_anchor_amplitudes": [
+      0.058,
+      0.049,
+      0.031
+    ],
+    "filtered_noise_global_multiplier": 0.72,
+    "obstruent_onset_gain_multiplier": 0.98,
+    "sonorant_onset_gain_multiplier": 1.02,
+    "harmonic_table": "harmonic_design.csv"
+  }
+}
